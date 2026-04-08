@@ -111,7 +111,7 @@ export default function HomePage() {
               <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-emerald-500"/>
             </span>
             <span className="font-mono text-xs text-zinc-300 uppercase tracking-widest">
-              {543 || '—'} MPs · Live Data · No Spin
+              {543} MPs · Live Data · No Spin
             </span>
           </div>
         </div>
@@ -192,7 +192,7 @@ export default function HomePage() {
         {/* Stats */}
         <div className="grid grid-cols-3 gap-3 mb-8">
           {[
-            { label: 'MPs tracked', value: String(543 || '—'), icon: '👥', color: 'text-yellow-400' },
+            { label: 'MPs tracked', value: String(543), icon: '👥', color: 'text-yellow-400' },
             { label: 'Data source',  value: 'PRS India',             icon: '📊', color: 'text-blue-400'   },
             { label: 'Parliament',   value: '18th LS',               icon: '🏛️', color: 'text-violet-400' },
           ].map(s => (
