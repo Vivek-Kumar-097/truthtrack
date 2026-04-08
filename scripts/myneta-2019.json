@@ -1,0 +1,4804 @@
+{
+  "winners": [
+    {
+      "candidate_id": 5069,
+      "name": "Bapu Rao Soyam",
+      "constituency": "ADILABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 52,
+      "assets_2019": 3099414,
+      "liabilities_2019": 231450
+    },
+    {
+      "candidate_id": 5522,
+      "name": "Satyapal Singh Baghel",
+      "constituency": "AGRA",
+      "party": "BJP",
+      "criminal_cases_2019": 5,
+      "assets_2019": 74274036,
+      "liabilities_2019": 8606522
+    },
+    {
+      "candidate_id": 9386,
+      "name": "Patel Hasmukhbhai Somabhai",
+      "constituency": "AHMEDABAD EAST",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8488,
+      "name": "Dr. Solanki Kiritbhai",
+      "constituency": "AHMEDABAD WEST",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 89474039,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8513,
+      "name": "Sujay Radhakrishna Vikhe",
+      "constituency": "AHMEDNAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 168664576,
+      "liabilities_2019": 2623964
+    },
+    {
+      "candidate_id": 9617,
+      "name": "Bhagirath Chaudhary",
+      "constituency": "AJMER",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5440,
+      "name": "Sanjay Shamrao Dhotre",
+      "constituency": "AKOLA",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 77153230,
+      "liabilities_2019": 14985774
+    },
+    {
+      "candidate_id": 8813,
+      "name": "A M Ariff",
+      "constituency": "ALAPPUZHA",
+      "party": "CPI(M)",
+      "criminal_cases_2019": 2,
+      "assets_2019": 15268906,
+      "liabilities_2019": 2220700
+    },
+    {
+      "candidate_id": 5510,
+      "name": "Satish Kumar Gautam",
+      "constituency": "ALIGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 109522559,
+      "liabilities_2019": 28095176
+    },
+    {
+      "candidate_id": 5712,
+      "name": "John Barla",
+      "constituency": "ALIPURDUARS",
+      "party": "BJP",
+      "criminal_cases_2019": 9,
+      "assets_2019": 1418730,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13474,
+      "name": "Rita Bahuguna Joshi",
+      "constituency": "ALLAHABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 6,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5167,
+      "name": "Ajay Tamta",
+      "constituency": "ALMORA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 9910448,
+      "liabilities_2019": 55845
+    },
+    {
+      "candidate_id": 11228,
+      "name": "Mahant Balak Nath",
+      "constituency": "ALWAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 352929,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5028,
+      "name": "Chinta Anuradha",
+      "constituency": "AMALAPURAM",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12135,
+      "name": "Rattan Lal Kataria",
+      "constituency": "AMBALA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 54361499,
+      "liabilities_2019": 188861
+    },
+    {
+      "candidate_id": 12547,
+      "name": "Ritesh Pandey",
+      "constituency": "AMBEDKAR NAGAR",
+      "party": "BSP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 307265121,
+      "liabilities_2019": 24739098
+    },
+    {
+      "candidate_id": 6376,
+      "name": "Navneet Ravi Rana",
+      "constituency": "AMRAVATI",
+      "party": "IND",
+      "criminal_cases_2019": 1,
+      "assets_2019": 124554656,
+      "liabilities_2019": 70576979
+    },
+    {
+      "candidate_id": 8500,
+      "name": "Kachhadiya Naranbhai Bhikhabhai",
+      "constituency": "AMRELI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 35900763,
+      "liabilities_2019": 828961
+    },
+    {
+      "candidate_id": 13124,
+      "name": "Gurjeet Singh Aujla",
+      "constituency": "AMRITSAR",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5501,
+      "name": "Kunwar Danish Ali",
+      "constituency": "AMROHA",
+      "party": "BSP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 74920879,
+      "liabilities_2019": 19579691
+    },
+    {
+      "candidate_id": 5018,
+      "name": "Dr.Beesetti Venkata Satyavathi",
+      "constituency": "ANAKAPALLE",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 91526244,
+      "liabilities_2019": 11139279
+    },
+    {
+      "candidate_id": 7686,
+      "name": "Miteshbhai Patel",
+      "constituency": "ANAND",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13599,
+      "name": "Manish Tewari",
+      "constituency": "ANANDPUR SAHIB",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 154637860,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4715,
+      "name": "Talari Rangaiah",
+      "constituency": "ANANTAPUR",
+      "party": "YSRCP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 11773091,
+      "liabilities_2019": 1135547
+    },
+    {
+      "candidate_id": 4917,
+      "name": "Kuldeep Rai Sharma",
+      "constituency": "ANDAMAN AND NICOBAR ISLANDS",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 132233012,
+      "liabilities_2019": 80450870
+    },
+    {
+      "candidate_id": 7886,
+      "name": "Dharmendra Kumar",
+      "constituency": "AONLA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 21766502,
+      "liabilities_2019": 3324300
+    },
+    {
+      "candidate_id": 5843,
+      "name": "S. Jagathrakshakan",
+      "constituency": "ARAKKONAM",
+      "party": "DMK",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4784,
+      "name": "Goddeti Madhavi",
+      "constituency": "ARAKU",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 141179,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11180,
+      "name": "Aparupa Poddar (Afrin Ali)",
+      "constituency": "ARAMBAG",
+      "party": "AITC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 12527597,
+      "liabilities_2019": 4244000
+    },
+    {
+      "candidate_id": 5848,
+      "name": "Vishnuprasad. M.K",
+      "constituency": "ARANI",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9516,
+      "name": "Pradeep Kumar Singh",
+      "constituency": "ARARIA",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 5010577,
+      "liabilities_2019": 1159200
+    },
+    {
+      "candidate_id": 13063,
+      "name": "R. K. Singh",
+      "constituency": "ARRAH",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 79971720,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5123,
+      "name": "Kiren Rijiju",
+      "constituency": "ARUNACHAL WEST",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 15279000,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 10071,
+      "name": "Babul Supriya Baral",
+      "constituency": "ASANSOL",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 59234826,
+      "liabilities_2019": 5722184
+    },
+    {
+      "candidate_id": 5171,
+      "name": "Pramila Bisoyi",
+      "constituency": "ASKA",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9108,
+      "name": "Adoor Prakash",
+      "constituency": "ATTINGAL",
+      "party": "INC",
+      "criminal_cases_2019": 7,
+      "assets_2019": 144098612,
+      "liabilities_2019": 27622685
+    },
+    {
+      "candidate_id": 5391,
+      "name": "Sushil Kumar Singh",
+      "constituency": "AURANGABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 167895109,
+      "liabilities_2019": 3746607
+    },
+    {
+      "candidate_id": 5368,
+      "name": "Horen Sing Bey",
+      "constituency": "AUTONOMOUS DISTRICT",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 20693570,
+      "liabilities_2019": 5956209
+    },
+    {
+      "candidate_id": 12358,
+      "name": "Akhilesh Yadav",
+      "constituency": "AZAMGARH",
+      "party": "SP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 377859166,
+      "liabilities_2019": 2853000
+    },
+    {
+      "candidate_id": 7248,
+      "name": "Gaddigoudar Parvatagouda Chandanagouda",
+      "constituency": "BAGALKOT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 43980663,
+      "liabilities_2019": 7987991
+    },
+    {
+      "candidate_id": 6144,
+      "name": "Dr. Satyapal Singh",
+      "constituency": "BAGHPAT",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 78195793,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 10085,
+      "name": "Adhir Ranjan Chowdhury",
+      "constituency": "BAHARAMPUR",
+      "party": "INC",
+      "criminal_cases_2019": 7,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11039,
+      "name": "Akshayabar Lal",
+      "constituency": "BAHRAICH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 45691463,
+      "liabilities_2019": 3028133
+    },
+    {
+      "candidate_id": 10330,
+      "name": "Dr. Dhal Singh Bisen",
+      "constituency": "BALAGHAT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 88648133,
+      "liabilities_2019": 1530693
+    },
+    {
+      "candidate_id": 9918,
+      "name": "Pratap Chandra Sarangi",
+      "constituency": "BALASORE",
+      "party": "BJP",
+      "criminal_cases_2019": 7,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12988,
+      "name": "Virendra Singh",
+      "constituency": "BALLIA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 24498319,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7429,
+      "name": "Sukanta Majumdar",
+      "constituency": "BALURGHAT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 5825866,
+      "liabilities_2019": 2168170
+    },
+    {
+      "candidate_id": 11041,
+      "name": "R.K. Singh Patel",
+      "constituency": "BANDA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 55794086,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5160,
+      "name": "P. C. Mohan",
+      "constituency": "BANGALORE CENTRAL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 755529306,
+      "liabilities_2019": 312521957
+    },
+    {
+      "candidate_id": 7343,
+      "name": "D.V. Sadananda Gowda",
+      "constituency": "BANGALORE NORTH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7321,
+      "name": "D.K. Suresh",
+      "constituency": "BANGALORE RURAL",
+      "party": "INC",
+      "criminal_cases_2019": 5,
+      "assets_2019": 3388920717,
+      "liabilities_2019": 519320305
+    },
+    {
+      "candidate_id": 7698,
+      "name": "Tejasvi Surya",
+      "constituency": "BANGALORE SOUTH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1346593,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11548,
+      "name": "Shantanu Thakur",
+      "constituency": "BANGAON",
+      "party": "BJP",
+      "criminal_cases_2019": 8,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5983,
+      "name": "Giridhari Yadav",
+      "constituency": "BANKA",
+      "party": "JD(U)",
+      "criminal_cases_2019": 1,
+      "assets_2019": 19816050,
+      "liabilities_2019": 405701
+    },
+    {
+      "candidate_id": 12438,
+      "name": "Subhas Kumar Sarkar",
+      "constituency": "BANKURA",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 19799440,
+      "liabilities_2019": 3261495
+    },
+    {
+      "candidate_id": 9577,
+      "name": "Kanakmal Katara",
+      "constituency": "BANSWARA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 58711904,
+      "liabilities_2019": 1746729
+    },
+    {
+      "candidate_id": 5048,
+      "name": "Suresh Babu Nandigam",
+      "constituency": "BAPATLA",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 4158610,
+      "liabilities_2019": 269000
+    },
+    {
+      "candidate_id": 11045,
+      "name": "Upendra Singh Rawat",
+      "constituency": "BARABANKI",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7991,
+      "name": "Supriya Sadanand Sule",
+      "constituency": "BARAMATI",
+      "party": "NCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1408888704,
+      "liabilities_2019": 5500000
+    },
+    {
+      "candidate_id": 4877,
+      "name": "Mohammad Akbar Lone",
+      "constituency": "BARAMULLA",
+      "party": "Jammu & Kashmir National Conference",
+      "criminal_cases_2019": 0,
+      "assets_2019": 597434000,
+      "liabilities_2019": 104935
+    },
+    {
+      "candidate_id": 13953,
+      "name": "Dr. Kakoli Ghoshdastidar",
+      "constituency": "BARASAT",
+      "party": "AITC",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 10096,
+      "name": "Surendrajeet Singh Ahluwalia",
+      "constituency": "BARDHAMAN DURGAPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 26521750,
+      "liabilities_2019": 744076
+    },
+    {
+      "candidate_id": 10100,
+      "name": "Sunil Kumar Mondal",
+      "constituency": "BARDHAMAN PURBA",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 20371283,
+      "liabilities_2019": 148598
+    },
+    {
+      "candidate_id": 7410,
+      "name": "Santosh Kumar Gangwar",
+      "constituency": "BAREILLY",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 126356142,
+      "liabilities_2019": 13055209
+    },
+    {
+      "candidate_id": 5557,
+      "name": "Suresh Pujari",
+      "constituency": "BARGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 11673429,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9604,
+      "name": "Kailash Choudhary",
+      "constituency": "BARMER",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8223,
+      "name": "Abdul Khaleque",
+      "constituency": "BARPETA",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 7398753,
+      "liabilities_2019": 2703693
+    },
+    {
+      "candidate_id": 11550,
+      "name": "Arjun Singh",
+      "constituency": "BARRACKPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 24,
+      "assets_2019": 8055691,
+      "liabilities_2019": 1100000
+    },
+    {
+      "candidate_id": 12751,
+      "name": "Nusrat Jahan Ruhi",
+      "constituency": "BASIRHAT",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4906,
+      "name": "Deepak Kumar Baij",
+      "constituency": "BASTAR",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 7721293,
+      "liabilities_2019": 1801236
+    },
+    {
+      "candidate_id": 12535,
+      "name": "Harish Chandra Alias Harish Dwivedi",
+      "constituency": "BASTI",
+      "party": "BJP",
+      "criminal_cases_2019": 5,
+      "assets_2019": 8662344,
+      "liabilities_2019": 322490
+    },
+    {
+      "candidate_id": 6527,
+      "name": "Pritam Gopinathrao Munde",
+      "constituency": "BEED",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 167477926,
+      "liabilities_2019": 98833794
+    },
+    {
+      "candidate_id": 9786,
+      "name": "Giriraj Singh",
+      "constituency": "BEGUSARAI",
+      "party": "BJP",
+      "criminal_cases_2019": 6,
+      "assets_2019": 83024577,
+      "liabilities_2019": 12236000
+    },
+    {
+      "candidate_id": 7022,
+      "name": "Angadi Suresh",
+      "constituency": "BELGAUM",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7264,
+      "name": "Y. Devendrappa",
+      "constituency": "BELLARY",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 40107878,
+      "liabilities_2019": 250000
+    },
+    {
+      "candidate_id": 4702,
+      "name": "Chandra Sekhar Sahu",
+      "constituency": "BERHAMPUR",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 11716989,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11576,
+      "name": "Durga Das (D.D.) Uikey",
+      "constituency": "BETUL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12369,
+      "name": "Ramesh Chand",
+      "constituency": "BHADOHI",
+      "party": "BJP",
+      "criminal_cases_2019": 6,
+      "assets_2019": 94089148,
+      "liabilities_2019": 21696413
+    },
+    {
+      "candidate_id": 9927,
+      "name": "Manjulata Mandal",
+      "constituency": "BHADRAK",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 39417891,
+      "liabilities_2019": 8958149
+    },
+    {
+      "candidate_id": 6040,
+      "name": "Sunil Baburao Mendhe",
+      "constituency": "BHANDARA GONDIYA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 627543615,
+      "liabilities_2019": 19861338
+    },
+    {
+      "candidate_id": 11275,
+      "name": "Ranjeeta Kumari",
+      "constituency": "BHARATPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 3117190,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8508,
+      "name": "Mansukhbhai Vasava",
+      "constituency": "BHARUCH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8501,
+      "name": "Dr.Bharatiben Dhirubhai Shiyal",
+      "constituency": "BHAVNAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 17753161,
+      "liabilities_2019": 3689036
+    },
+    {
+      "candidate_id": 9562,
+      "name": "Subhash Chandra Baheria",
+      "constituency": "BHILWARA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 232703276,
+      "liabilities_2019": 1827380
+    },
+    {
+      "candidate_id": 12227,
+      "name": "Sandhya Ray",
+      "constituency": "BHIND",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9834,
+      "name": "Kapil Moreshwar Patil",
+      "constituency": "BHIWANDI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 418850781,
+      "liabilities_2019": 5645459
+    },
+    {
+      "candidate_id": 12139,
+      "name": "Dharambir Singh",
+      "constituency": "BHIWANI MAHENDRAGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 60642205,
+      "liabilities_2019": 240000
+    },
+    {
+      "candidate_id": 12607,
+      "name": "Sadhvi Pragya Singh Thakur",
+      "constituency": "BHOPAL",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 444224,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9907,
+      "name": "Aparajita Sarangi",
+      "constituency": "BHUBANESWAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 31677600,
+      "liabilities_2019": 4329959
+    },
+    {
+      "candidate_id": 7037,
+      "name": "Bhagwanth Khuba",
+      "constituency": "BIDAR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7031,
+      "name": "Jigajinagi Ramesh Chandappa",
+      "constituency": "BIJAPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 504122985,
+      "liabilities_2019": 1600000
+    },
+    {
+      "candidate_id": 6112,
+      "name": "Malook Nagar",
+      "constituency": "BIJNOR",
+      "party": "BSP",
+      "criminal_cases_2019": 7,
+      "assets_2019": 2499628021,
+      "liabilities_2019": 1016148176
+    },
+    {
+      "candidate_id": 11692,
+      "name": "Arjun Ram Meghwal",
+      "constituency": "BIKANER",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7793,
+      "name": "Arun Sao",
+      "constituency": "BILASPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 13544588,
+      "liabilities_2019": 50000
+    },
+    {
+      "candidate_id": 10106,
+      "name": "Satabdi Roy (Banerjee)",
+      "constituency": "BIRBHUM",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 48652722,
+      "liabilities_2019": 18604443
+    },
+    {
+      "candidate_id": 5560,
+      "name": "Smt. Sangeeta Kumari Singh Deo",
+      "constituency": "BOLANGIR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 379590851,
+      "liabilities_2019": 7500000
+    },
+    {
+      "candidate_id": 10532,
+      "name": "Asit Kumar Mal",
+      "constituency": "BOLPUR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1310691,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7104,
+      "name": "Bhola Singh",
+      "constituency": "BULANDSHAHR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5175,
+      "name": "Prataprao Ganpatrao Jadhav",
+      "constituency": "BULDHANA",
+      "party": "SHS",
+      "criminal_cases_2019": 3,
+      "assets_2019": 116272966,
+      "liabilities_2019": 735482
+    },
+    {
+      "candidate_id": 13075,
+      "name": "Ashwini Kumar Choubey",
+      "constituency": "BUXAR",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 40183612,
+      "liabilities_2019": 1350667
+    },
+    {
+      "candidate_id": 9136,
+      "name": "Benny Behanan",
+      "constituency": "CHALAKUDY",
+      "party": "INC",
+      "criminal_cases_2019": 4,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7313,
+      "name": "V Srinivas Prasad",
+      "constituency": "CHAMARAJANAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 143804441,
+      "liabilities_2019": 324909
+    },
+    {
+      "candidate_id": 12963,
+      "name": "Dr. Mahendra Nath Pandey",
+      "constituency": "CHANDAULI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 33359734,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12696,
+      "name": "Harsh Vardhan",
+      "constituency": "CHANDNI CHOWK",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 30171897,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5420,
+      "name": "Dhanorkar Suresh Narayan",
+      "constituency": "CHANDRAPUR",
+      "party": "INC",
+      "criminal_cases_2019": 5,
+      "assets_2019": 137455342,
+      "liabilities_2019": 22752880
+    },
+    {
+      "candidate_id": 10250,
+      "name": "Sunil Kumar Singh",
+      "constituency": "CHATRA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 6457,
+      "name": "Dayanidhi Maran",
+      "constituency": "CHENNAI CENTRAL",
+      "party": "DMK",
+      "criminal_cases_2019": 1,
+      "assets_2019": 116790616,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5206,
+      "name": "Dr. Kalanidhi Veeraswamy",
+      "constituency": "CHENNAI NORTH",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 405294714,
+      "liabilities_2019": 258386550
+    },
+    {
+      "candidate_id": 5212,
+      "name": "Sumathy Alias Thamizhachi Thangapandian",
+      "constituency": "CHENNAI SOUTH",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4846,
+      "name": "Dr.Gaddam Ranjith Reddy",
+      "constituency": "CHEVELLA",
+      "party": "TRS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1634695131,
+      "liabilities_2019": 197007553
+    },
+    {
+      "candidate_id": 10339,
+      "name": "Nakul Nath",
+      "constituency": "CHHINDWARA",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 6601946757,
+      "liabilities_2019": 8791712
+    },
+    {
+      "candidate_id": 8261,
+      "name": "Thirumaavalavan Thol",
+      "constituency": "CHIDAMBARAM",
+      "party": "Viduthalai Chiruthaigal Katchi",
+      "criminal_cases_2019": 3,
+      "assets_2019": 9244092,
+      "liabilities_2019": 394248
+    },
+    {
+      "candidate_id": 7659,
+      "name": "B.N.Bache Gowda",
+      "constituency": "CHIKKBALLAPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1153501141,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 10428,
+      "name": "Annasaheb Shankar Jolle",
+      "constituency": "CHIKKODI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7094,
+      "name": "A Narayanaswamy",
+      "constituency": "CHITRADURGA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 96197642,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4820,
+      "name": "N. Reddeppa",
+      "constituency": "CHITTOOR",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 17355862,
+      "liabilities_2019": 1341542
+    },
+    {
+      "candidate_id": 9569,
+      "name": "Chandra Prakash",
+      "constituency": "CHITTORGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11536,
+      "name": "Rahul Kaswan",
+      "constituency": "CHURU",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 36723865,
+      "liabilities_2019": 15163379
+    },
+    {
+      "candidate_id": 5854,
+      "name": "P R Natarajan",
+      "constituency": "COIMBATORE",
+      "party": "CPI(M)",
+      "criminal_cases_2019": 1,
+      "assets_2019": 20284430,
+      "liabilities_2019": 3234168
+    },
+    {
+      "candidate_id": 8269,
+      "name": "T. R. V .S. Ramesh",
+      "constituency": "CUDDALORE",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 423378552,
+      "liabilities_2019": 102828604
+    },
+    {
+      "candidate_id": 8379,
+      "name": "Bhartruhari Mahtab",
+      "constituency": "CUTTACK",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 106894976,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8244,
+      "name": "Delkar Mohanbhai Sanjibhai",
+      "constituency": "DADRA AND NAGAR HAVELI",
+      "party": "IND",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8000,
+      "name": "Jasvantsinh Sumanbhai Bhabhor",
+      "constituency": "DAHOD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 27070480,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7083,
+      "name": "Nalin Kumar Kateel",
+      "constituency": "DAKSHINA KANNADA",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 14678300,
+      "liabilities_2019": 4450945
+    },
+    {
+      "candidate_id": 7417,
+      "name": "Patel Lalubhai Babubhai",
+      "constituency": "DAMAN AND DIU",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11215,
+      "name": "Prahalad Singh Patel",
+      "constituency": "DAMOH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 43292483,
+      "liabilities_2019": 4230614
+    },
+    {
+      "candidate_id": 9774,
+      "name": "Gopaljee Thakur",
+      "constituency": "DARBHANGA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 19301808,
+      "liabilities_2019": 1039660
+    },
+    {
+      "candidate_id": 11711,
+      "name": "Jaskaur Meena",
+      "constituency": "DAUSA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 143742564,
+      "liabilities_2019": 5825431
+    },
+    {
+      "candidate_id": 7273,
+      "name": "G M Siddeshwar",
+      "constituency": "DAVANAGERE",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 380164932,
+      "liabilities_2019": 14670809
+    },
+    {
+      "candidate_id": 12959,
+      "name": "Ramapati Ram Tripathi",
+      "constituency": "DEORIA",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13087,
+      "name": "Mahendra Singh Solanky",
+      "constituency": "DEWAS",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 3812464,
+      "liabilities_2019": 1832631
+    },
+    {
+      "candidate_id": 12893,
+      "name": "Pashupati Nath Singh",
+      "constituency": "DHANBAD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 27286918,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13106,
+      "name": "Chhatar Singh Darbar",
+      "constituency": "DHAR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8566,
+      "name": "Dnv Senthilkumar.S",
+      "constituency": "DHARMAPURI",
+      "party": "DMK",
+      "criminal_cases_2019": 1,
+      "assets_2019": 48477451,
+      "liabilities_2019": 6053502
+    },
+    {
+      "candidate_id": 10408,
+      "name": "Pralhad Joshi",
+      "constituency": "DHARWAD",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 111384447,
+      "liabilities_2019": 51736254
+    },
+    {
+      "candidate_id": 8386,
+      "name": "Mahesh Sahoo",
+      "constituency": "DHENKANAL",
+      "party": "BJD",
+      "criminal_cases_2019": 1,
+      "assets_2019": 14529286,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7388,
+      "name": "Badruddin Ajmal",
+      "constituency": "DHUBRI",
+      "party": "AIUDF",
+      "criminal_cases_2019": 7,
+      "assets_2019": 788064044,
+      "liabilities_2019": 10159381
+    },
+    {
+      "candidate_id": 9807,
+      "name": "Subhash Ramrao Bhamre",
+      "constituency": "DHULE",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12741,
+      "name": "Abhishek Banerjee",
+      "constituency": "DIAMOND HARBOUR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 13794320,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4927,
+      "name": "Rameswar Teli",
+      "constituency": "DIBRUGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 4370067,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5298,
+      "name": "Velusamy P",
+      "constituency": "DINDIGUL",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9818,
+      "name": "Bharti Pawar",
+      "constituency": "DINDORI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 122885349,
+      "liabilities_2019": 1449572
+    },
+    {
+      "candidate_id": 13486,
+      "name": "Jagdambika Pal",
+      "constituency": "DOMARIYAGANJ",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 103366710,
+      "liabilities_2019": 2838478
+    },
+    {
+      "candidate_id": 13003,
+      "name": "Sunil Soren",
+      "constituency": "DUMKA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 4737559,
+      "liabilities_2019": 685516
+    },
+    {
+      "candidate_id": 7474,
+      "name": "Vijay Baghel",
+      "constituency": "DURG",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 34429027,
+      "liabilities_2019": 8748686
+    },
+    {
+      "candidate_id": 12721,
+      "name": "Gautam Gambhir",
+      "constituency": "EAST DELHI",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4682,
+      "name": "Sridhar Kotagiri",
+      "constituency": "ELURU",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 462808829,
+      "liabilities_2019": 33560974
+    },
+    {
+      "candidate_id": 8832,
+      "name": "Hibi Eden",
+      "constituency": "ERNAKULAM",
+      "party": "INC",
+      "criminal_cases_2019": 7,
+      "assets_2019": 7908467,
+      "liabilities_2019": 200000
+    },
+    {
+      "candidate_id": 6503,
+      "name": "Ganeshamurthi A",
+      "constituency": "ERODE",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7414,
+      "name": "Rajveer Singh",
+      "constituency": "ETAH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 383629735,
+      "liabilities_2019": 100220000
+    },
+    {
+      "candidate_id": 9651,
+      "name": "Dr Ram Shankar Katheria",
+      "constituency": "ETAWAH",
+      "party": "BJP",
+      "criminal_cases_2019": 12,
+      "assets_2019": 15154538,
+      "liabilities_2019": 7304616
+    },
+    {
+      "candidate_id": 12150,
+      "name": "Krishan Pal",
+      "constituency": "FARIDABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 369652786,
+      "liabilities_2019": 105593242
+    },
+    {
+      "candidate_id": 13160,
+      "name": "Mohammad Sadique",
+      "constituency": "FARIDKOT",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 19793884,
+      "liabilities_2019": 311043
+    },
+    {
+      "candidate_id": 9660,
+      "name": "Mukesh Rajput",
+      "constituency": "FARRUKHABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13155,
+      "name": "Amar Singh",
+      "constituency": "FATEHGARH SAHIB",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 32808836,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11053,
+      "name": "Sadhvi Niranjan Jyoti",
+      "constituency": "FATEHPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 10667372,
+      "liabilities_2019": 910148
+    },
+    {
+      "candidate_id": 7144,
+      "name": "Rajkumar Chahar",
+      "constituency": "FATEHPUR SIKRI",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9538,
+      "name": "Dr. Chandra Sen Jadon",
+      "constituency": "FIROZABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 42872395,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13164,
+      "name": "Sukhbir Singh Badal",
+      "constituency": "FIROZPUR",
+      "party": "SAD",
+      "criminal_cases_2019": 4,
+      "assets_2019": 2179919870,
+      "liabilities_2019": 954852600
+    },
+    {
+      "candidate_id": 8016,
+      "name": "Amit Shah",
+      "constituency": "GANDHINAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 403275307,
+      "liabilities_2019": 4769587
+    },
+    {
+      "candidate_id": 11719,
+      "name": "Nihal Chand",
+      "constituency": "GANGANAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 21014362,
+      "liabilities_2019": 3631287
+    },
+    {
+      "candidate_id": 4909,
+      "name": "Tirath Singh Rawat",
+      "constituency": "GARHWAL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7394,
+      "name": "Queen Oja",
+      "constituency": "GAUHATI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 630219570,
+      "liabilities_2019": 34034178
+    },
+    {
+      "candidate_id": 4780,
+      "name": "Dr. Mahesh Sharma",
+      "constituency": "GAUTAM BUDDHA NAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 478759568,
+      "liabilities_2019": 43863749
+    },
+    {
+      "candidate_id": 5607,
+      "name": "Vijay Kumar",
+      "constituency": "GAYA",
+      "party": "JD(U)",
+      "criminal_cases_2019": 3,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12452,
+      "name": "Deepak Adhikari",
+      "constituency": "GHATAL",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 317320579,
+      "liabilities_2019": 7879681
+    },
+    {
+      "candidate_id": 6158,
+      "name": "Vijay Kumar Singh",
+      "constituency": "GHAZIABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 56545702,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12946,
+      "name": "Atul Kumar Singh",
+      "constituency": "GHOSI",
+      "party": "BSP",
+      "criminal_cases_2019": 13,
+      "assets_2019": 66536025,
+      "liabilities_2019": 3454591
+    },
+    {
+      "candidate_id": 12882,
+      "name": "Chandra Prakash Choudhary",
+      "constituency": "GIRIDIH",
+      "party": "AJSU Party",
+      "criminal_cases_2019": 2,
+      "assets_2019": 13456889,
+      "liabilities_2019": 1330000
+    },
+    {
+      "candidate_id": 12998,
+      "name": "Nishikant Dubey",
+      "constituency": "GODDA",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11441,
+      "name": "Kirti Vardhan Singh Alias Raja Bhaiya",
+      "constituency": "GONDA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 232735285,
+      "liabilities_2019": 23201603
+    },
+    {
+      "candidate_id": 12076,
+      "name": "Dr. Alok Kumar Suman",
+      "constituency": "GOPALGANJ",
+      "party": "JD(U)",
+      "criminal_cases_2019": 0,
+      "assets_2019": 32739903,
+      "liabilities_2019": 3576376
+    },
+    {
+      "candidate_id": 12940,
+      "name": "Ravindra Shyamnarayan Shukla Alias Ravi Kishan",
+      "constituency": "GORAKHPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 10400,
+      "name": "Dr. Umesh G Jadhav",
+      "constituency": "GULBARGA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 37490597,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12655,
+      "name": "Krishna Pal Singh",
+      "constituency": "GUNA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 16266408,
+      "liabilities_2019": 494053
+    },
+    {
+      "candidate_id": 13532,
+      "name": "Ajay Singh Dharmendra Deol (Sunny Deol)",
+      "constituency": "GURDASPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 871925679,
+      "liabilities_2019": 534644785
+    },
+    {
+      "candidate_id": 12158,
+      "name": "Rao Inderjit Singh",
+      "constituency": "GURGAON",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 420970754,
+      "liabilities_2019": 31500000
+    },
+    {
+      "candidate_id": 12240,
+      "name": "Vivek Narayan Shejwalkar",
+      "constituency": "GWALIOR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11322,
+      "name": "Pashupati Kumar Paras",
+      "constituency": "HAJIPUR",
+      "party": "LJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 62834200,
+      "liabilities_2019": 6744375
+    },
+    {
+      "candidate_id": 13025,
+      "name": "Anurag Singh Thakur",
+      "constituency": "HAMIRPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 56770463,
+      "liabilities_2019": 1085145
+    },
+    {
+      "candidate_id": 9679,
+      "name": "Jai Prakash",
+      "constituency": "HARDOI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 234032624,
+      "liabilities_2019": 2615368
+    },
+    {
+      "candidate_id": 5446,
+      "name": "Ramesh Pokhriyal Nishank",
+      "constituency": "HARIDWAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 28739888,
+      "liabilities_2019": 16444
+    },
+    {
+      "candidate_id": 7121,
+      "name": "Rajvir Diler",
+      "constituency": "HATHRAS",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 14930000,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8517,
+      "name": "Dhairyashil Sambhajirao Mane",
+      "constituency": "HATKANANGLE",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 47771462,
+      "liabilities_2019": 41599959
+    },
+    {
+      "candidate_id": 10394,
+      "name": "Udasi. S.C.",
+      "constituency": "HAVERI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11166,
+      "name": "Jayant Sinha",
+      "constituency": "HAZARIBAGH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 770749002,
+      "liabilities_2019": 193271437
+    },
+    {
+      "candidate_id": 6951,
+      "name": "Kuruva Gorantla Madhav",
+      "constituency": "HINDUPUR",
+      "party": "YSRCP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 1787356,
+      "liabilities_2019": 730332
+    },
+    {
+      "candidate_id": 6559,
+      "name": "Patil Hemant Shriram",
+      "constituency": "HINGOLI",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12167,
+      "name": "Brijendra Singh",
+      "constituency": "HISAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 146408734,
+      "liabilities_2019": 27225637
+    },
+    {
+      "candidate_id": 11195,
+      "name": "Locket Chatterjee",
+      "constituency": "HOOGHLY",
+      "party": "BJP",
+      "criminal_cases_2019": 14,
+      "assets_2019": 35855698,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13145,
+      "name": "Som Parkash",
+      "constituency": "HOSHIARPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 29404519,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11197,
+      "name": "Prasun Banerjee",
+      "constituency": "HOWRAH",
+      "party": "AITC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 13216066,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4589,
+      "name": "Asaduddin Owaisi",
+      "constituency": "HYDERABAD",
+      "party": "AIMIM",
+      "criminal_cases_2019": 5,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8847,
+      "name": "Dean Kuriakose",
+      "constituency": "IDUKKI",
+      "party": "INC",
+      "criminal_cases_2019": 204,
+      "assets_2019": 13395011,
+      "liabilities_2019": 10000000
+    },
+    {
+      "candidate_id": 13111,
+      "name": "Shankar Lalwani",
+      "constituency": "INDORE",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 59038508,
+      "liabilities_2019": 2106382
+    },
+    {
+      "candidate_id": 5671,
+      "name": "Dr Rajkumar Ranjan Singh",
+      "constituency": "INNER MANIPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 10313,
+      "name": "Rakesh Singh",
+      "constituency": "JABALPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 43134351,
+      "liabilities_2019": 1387000
+    },
+    {
+      "candidate_id": 13981,
+      "name": "Mimi Chakraborty",
+      "constituency": "JADAVPUR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 24398786,
+      "liabilities_2019": 1900788
+    },
+    {
+      "candidate_id": 13084,
+      "name": "Chandeshwar Prasad",
+      "constituency": "JAHANABAD",
+      "party": "JD(U)",
+      "criminal_cases_2019": 3,
+      "assets_2019": 139271693,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11299,
+      "name": "Ram Charan Bohra",
+      "constituency": "JAIPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 165322707,
+      "liabilities_2019": 22000000
+    },
+    {
+      "candidate_id": 11288,
+      "name": "Col. Rajyavardhan Rathore",
+      "constituency": "JAIPUR RURAL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 10122,
+      "name": "Sarmistha Sethi",
+      "constituency": "JAJPUR",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 15837082,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13136,
+      "name": "Santokh Singh Chaudhary",
+      "constituency": "JALANDHAR",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 99925185,
+      "liabilities_2019": 2534363
+    },
+    {
+      "candidate_id": 9690,
+      "name": "Bhanu Pratap Singh",
+      "constituency": "JALAUN",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 10849,
+      "name": "Unmesh Bhaiyyasaheb Patil",
+      "constituency": "JALGAON",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 12324604,
+      "liabilities_2019": 2529954
+    },
+    {
+      "candidate_id": 7766,
+      "name": "Danve Raosaheb Dadarao",
+      "constituency": "JALNA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 229557992,
+      "liabilities_2019": 2400000
+    },
+    {
+      "candidate_id": 5534,
+      "name": "Jayanta Kumar Roy",
+      "constituency": "JALPAIGURI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 11625047,
+      "liabilities_2019": 1352581
+    },
+    {
+      "candidate_id": 4879,
+      "name": "Jugal Kishore",
+      "constituency": "JAMMU",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 56481801,
+      "liabilities_2019": 350040219
+    },
+    {
+      "candidate_id": 8019,
+      "name": "Poonamben Hematbhai Maadam",
+      "constituency": "JAMNAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12222,
+      "name": "Bidyut Baran Mahato",
+      "constituency": "JAMSHEDPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 27750671,
+      "liabilities_2019": 2961830
+    },
+    {
+      "candidate_id": 5634,
+      "name": "Chirag Kumar Paswan",
+      "constituency": "JAMUI",
+      "party": "LJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 18466066,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7854,
+      "name": "Khalilur Rahaman",
+      "constituency": "JANGIPUR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7477,
+      "name": "Guharam Ajgalle",
+      "constituency": "JANJGIR CHAMPA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 18400837,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12380,
+      "name": "Shyam Singh Yadav",
+      "constituency": "JAUNPUR",
+      "party": "BSP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 140717620,
+      "liabilities_2019": 3577000
+    },
+    {
+      "candidate_id": 9585,
+      "name": "Dushyant",
+      "constituency": "JHALAWAR BARAN",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 370432373,
+      "liabilities_2019": 85824156
+    },
+    {
+      "candidate_id": 8156,
+      "name": "Ramprit Mandal",
+      "constituency": "JHANJHARPUR",
+      "party": "JD(U)",
+      "criminal_cases_2019": 1,
+      "assets_2019": 88119686,
+      "liabilities_2019": 1000000
+    },
+    {
+      "candidate_id": 11266,
+      "name": "Anurag Sharma",
+      "constituency": "JHANSI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12455,
+      "name": "Kunar Hembram",
+      "constituency": "JHARGRAM",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 10387498,
+      "liabilities_2019": 565000
+    },
+    {
+      "candidate_id": 11748,
+      "name": "Narendra Kumar",
+      "constituency": "JHUNJHUNU",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 47474109,
+      "liabilities_2019": 3278401
+    },
+    {
+      "candidate_id": 9607,
+      "name": "Gajendra Singh Shekhawat",
+      "constituency": "JODHPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5578,
+      "name": "Topon Kumar Gogoi",
+      "constituency": "JORHAT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 12597461,
+      "liabilities_2019": 455398
+    },
+    {
+      "candidate_id": 8010,
+      "name": "Chudasama Rajeshbhai Naranbhai",
+      "constituency": "JUNAGADH",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 10866041,
+      "liabilities_2019": 1481768
+    },
+    {
+      "candidate_id": 4812,
+      "name": "Yeduguri Sandinti Avinash Reddy",
+      "constituency": "KADAPA",
+      "party": "YSRCP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 186969794,
+      "liabilities_2019": 22833319
+    },
+    {
+      "candidate_id": 5461,
+      "name": "Pradeep Kumar",
+      "constituency": "KAIRANA",
+      "party": "BJP",
+      "criminal_cases_2019": 5,
+      "assets_2019": 17292937,
+      "liabilities_2019": 1300000
+    },
+    {
+      "candidate_id": 11448,
+      "name": "Brij Bhushan Sharan Singh",
+      "constituency": "KAISERGANJ",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5021,
+      "name": "Vanga Geetha Viswanatham",
+      "constituency": "KAKINADA",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 202528594,
+      "liabilities_2019": 34416878
+    },
+    {
+      "candidate_id": 5796,
+      "name": "Basanta Kumar Panda",
+      "constituency": "KALAHANDI",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 9547000,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4926,
+      "name": "Gaurav Gogoi",
+      "constituency": "KALIABOR",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7594,
+      "name": "Gautham Sigamani Pon",
+      "constituency": "KALLAKURICHI",
+      "party": "DMK",
+      "criminal_cases_2019": 1,
+      "assets_2019": 471186830,
+      "liabilities_2019": 81131909
+    },
+    {
+      "candidate_id": 9851,
+      "name": "Dr. Shrikant Eknath Shinde",
+      "constituency": "KALYAN",
+      "party": "SHS",
+      "criminal_cases_2019": 1,
+      "assets_2019": 19616515,
+      "liabilities_2019": 1241233
+    },
+    {
+      "candidate_id": 5403,
+      "name": "Achyutananda Samanta",
+      "constituency": "KANDHAMAL",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1244722,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13014,
+      "name": "Kishan Kapoor",
+      "constituency": "KANGRA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 85841247,
+      "liabilities_2019": 3605161
+    },
+    {
+      "candidate_id": 7173,
+      "name": "Mohan Mandavi",
+      "constituency": "KANKER",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9755,
+      "name": "Subrat Pathak",
+      "constituency": "KANNAUJ",
+      "party": "BJP",
+      "criminal_cases_2019": 11,
+      "assets_2019": 54287991,
+      "liabilities_2019": 28993930
+    },
+    {
+      "candidate_id": 5362,
+      "name": "Vasanthakumar H",
+      "constituency": "KANNIYAKUMARI",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 4174930444,
+      "liabilities_2019": 1547511439
+    },
+    {
+      "candidate_id": 9167,
+      "name": "K Sudhakaran",
+      "constituency": "KANNUR",
+      "party": "INC",
+      "criminal_cases_2019": 3,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9741,
+      "name": "Satyadev Pachauri",
+      "constituency": "KANPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 132382819,
+      "liabilities_2019": 31052190
+    },
+    {
+      "candidate_id": 12462,
+      "name": "Sisir Kumar Adhikari",
+      "constituency": "KANTHI",
+      "party": "AITC",
+      "criminal_cases_2019": 3,
+      "assets_2019": 33979650,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11237,
+      "name": "Manoj Rajoria",
+      "constituency": "KARAULI DHOLPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 64867148,
+      "liabilities_2019": 22121569
+    },
+    {
+      "candidate_id": 5897,
+      "name": "Kripanath Mallah",
+      "constituency": "KARIMGANJ",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1871040,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 6274,
+      "name": "Bandi Sanjay Kumar",
+      "constituency": "KARIMNAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 6,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12177,
+      "name": "Sanjay Bhatia",
+      "constituency": "KARNAL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 2256739,
+      "liabilities_2019": 500000
+    },
+    {
+      "candidate_id": 8874,
+      "name": "Jothimani S",
+      "constituency": "KARUR",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 6046055,
+      "liabilities_2019": 379000
+    },
+    {
+      "candidate_id": 8824,
+      "name": "Rajmohan Unnithan",
+      "constituency": "KASARAGOD",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5380,
+      "name": "Dulal Chandra Goswami",
+      "constituency": "KATIHAR",
+      "party": "JD(U)",
+      "criminal_cases_2019": 1,
+      "assets_2019": 13302734,
+      "liabilities_2019": 3130766
+    },
+    {
+      "candidate_id": 11454,
+      "name": "Vinod Kumar Sonkar",
+      "constituency": "KAUSHAMBI",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 59336113,
+      "liabilities_2019": 20730086
+    },
+    {
+      "candidate_id": 8443,
+      "name": "Chandrani Murmu",
+      "constituency": "KEONJHAR",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 340580,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13131,
+      "name": "Jasbir Singh Gill",
+      "constituency": "KHADOOR SAHIB",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 81393500,
+      "liabilities_2019": 4655000
+    },
+    {
+      "candidate_id": 8152,
+      "name": "Choudhary Mahbub Ali Kaisar",
+      "constituency": "KHAGARIA",
+      "party": "LJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11592,
+      "name": "Vishnu Datt Sharma",
+      "constituency": "KHAJURAHO",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 10589334,
+      "liabilities_2019": 2507176
+    },
+    {
+      "candidate_id": 7210,
+      "name": "Nama Nageswr Rao",
+      "constituency": "KHAMMAM",
+      "party": "TRS",
+      "criminal_cases_2019": 5,
+      "assets_2019": 1074671341,
+      "liabilities_2019": 80721594
+    },
+    {
+      "candidate_id": 13117,
+      "name": "Nandkumar Singh Chouhan (Nandu Bhaiya)",
+      "constituency": "KHANDWA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13115,
+      "name": "Gajendra Umrao Singh Patel",
+      "constituency": "KHARGONE",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 67303990,
+      "liabilities_2019": 1885020
+    },
+    {
+      "candidate_id": 7697,
+      "name": "Chauhan Devusinh",
+      "constituency": "KHEDA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 13023202,
+      "liabilities_2019": 995240
+    },
+    {
+      "candidate_id": 11362,
+      "name": "Arjun Munda",
+      "constituency": "KHUNTI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 91507865,
+      "liabilities_2019": 27106434
+    },
+    {
+      "candidate_id": 5942,
+      "name": "Dr. Mohammad Jawed",
+      "constituency": "KISHANGANJ",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 90973803,
+      "liabilities_2019": 5383958
+    },
+    {
+      "candidate_id": 11368,
+      "name": "Annapurna Devi",
+      "constituency": "KODARMA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7847,
+      "name": "Naba Kumar Sarania",
+      "constituency": "KOKRAJHAR",
+      "party": "IND",
+      "criminal_cases_2019": 5,
+      "assets_2019": 13013994,
+      "liabilities_2019": 175069
+    },
+    {
+      "candidate_id": 7278,
+      "name": "S. Muniswamy",
+      "constituency": "KOLAR",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 174557500,
+      "liabilities_2019": 19865690
+    },
+    {
+      "candidate_id": 7767,
+      "name": "Sanjay Sadashivrao Mandlik",
+      "constituency": "KOLHAPUR",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12731,
+      "name": "Mala Roy",
+      "constituency": "KOLKATA DAKSHIN",
+      "party": "AITC",
+      "criminal_cases_2019": 3,
+      "assets_2019": 10308401,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 14003,
+      "name": "Bandyopadhyay Sudip",
+      "constituency": "KOLKATA UTTAR",
+      "party": "AITC",
+      "criminal_cases_2019": 2,
+      "assets_2019": 61176355,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 10382,
+      "name": "Karadi Sanganna Amarappa",
+      "constituency": "KOPPAL",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 28725791,
+      "liabilities_2019": 22475333
+    },
+    {
+      "candidate_id": 5802,
+      "name": "Saptagiri Sankar Ulaka",
+      "constituency": "KORAPUT",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 37587560,
+      "liabilities_2019": 1217963
+    },
+    {
+      "candidate_id": 7479,
+      "name": "Jyotsna Mahant",
+      "constituency": "KORBA",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 10788,
+      "name": "Om Birla",
+      "constituency": "KOTA",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 48347737,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8853,
+      "name": "Thomas Chazhikadan",
+      "constituency": "KOTTAYAM",
+      "party": "Kerala Congress (M)",
+      "criminal_cases_2019": 0,
+      "assets_2019": 26027478,
+      "liabilities_2019": 495778
+    },
+    {
+      "candidate_id": 9217,
+      "name": "M.K.Raghavan",
+      "constituency": "KOZHIKODE",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 6488,
+      "name": "Dr.A.Chellakumar",
+      "constituency": "KRISHNAGIRI",
+      "party": "INC",
+      "criminal_cases_2019": 5,
+      "assets_2019": 121087979,
+      "liabilities_2019": 66817959
+    },
+    {
+      "candidate_id": 10544,
+      "name": "Mahua Moitra",
+      "constituency": "KRISHNANAGAR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 26495250,
+      "liabilities_2019": 671138
+    },
+    {
+      "candidate_id": 12185,
+      "name": "Nayab Singh",
+      "constituency": "KURUKSHETRA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 35785621,
+      "liabilities_2019": 5720000
+    },
+    {
+      "candidate_id": 12938,
+      "name": "Vijay Kumar Dubey",
+      "constituency": "KUSHI NAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 21860780,
+      "liabilities_2019": 316847
+    },
+    {
+      "candidate_id": 11352,
+      "name": "Tsering Namgyal",
+      "constituency": "LADAKH",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5375,
+      "name": "Pradan Baruah",
+      "constituency": "LAKHIMPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 14307978,
+      "liabilities_2019": 5839285
+    },
+    {
+      "candidate_id": 4964,
+      "name": "Mohammed Faizal Pp",
+      "constituency": "LAKSHADWEEP",
+      "party": "NCP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 938641,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12388,
+      "name": "Sangeeta Azad",
+      "constituency": "LALGANJ",
+      "party": "BSP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5476,
+      "name": "Sudhakar Tukaram Shrangare",
+      "constituency": "LATUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 286478302,
+      "liabilities_2019": 100250602
+    },
+    {
+      "candidate_id": 10265,
+      "name": "Sudarshan Bhagat",
+      "constituency": "LOHARDAGA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 12947303,
+      "liabilities_2019": 525000
+    },
+    {
+      "candidate_id": 13150,
+      "name": "Ravneet Singh Bittu",
+      "constituency": "LUDHIANA",
+      "party": "INC",
+      "criminal_cases_2019": 3,
+      "assets_2019": 54281096,
+      "liabilities_2019": 3331266
+    },
+    {
+      "candidate_id": 12393,
+      "name": "Bholanath (B.P. Saroj)",
+      "constituency": "MACHHLISHAHR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 259027394,
+      "liabilities_2019": 11194163
+    },
+    {
+      "candidate_id": 4794,
+      "name": "Balashowry Vallabhaneni",
+      "constituency": "MACHILIPATNAM",
+      "party": "YSRCP",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7769,
+      "name": "Ranjeetsinha Hindurao Naik Nimbalkar",
+      "constituency": "MADHA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 1275160578,
+      "liabilities_2019": 896315287
+    },
+    {
+      "candidate_id": 7621,
+      "name": "Dinesh Chandra Yadav",
+      "constituency": "MADHEPURA",
+      "party": "JD(U)",
+      "criminal_cases_2019": 1,
+      "assets_2019": 37420953,
+      "liabilities_2019": 700000
+    },
+    {
+      "candidate_id": 11084,
+      "name": "Ashok Kumar Yadav",
+      "constituency": "MADHUBANI",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5325,
+      "name": "Venkatesan S",
+      "constituency": "MADURAI",
+      "party": "CPI(M)",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1811456,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4645,
+      "name": "Kavitha Malothu",
+      "constituency": "MAHABUBABAD",
+      "party": "TRS",
+      "criminal_cases_2019": 1,
+      "assets_2019": 19731269,
+      "liabilities_2019": 1252068
+    },
+    {
+      "candidate_id": 14024,
+      "name": "Pankaj Choudhary",
+      "constituency": "MAHARAJGANJ",
+      "party": "BJP",
+      "criminal_cases_2019": 5,
+      "assets_2019": 371827109,
+      "liabilities_2019": 4483048
+    },
+    {
+      "candidate_id": 7178,
+      "name": "Chunni Lal Sahu",
+      "constituency": "MAHASAMUND",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 17591683,
+      "liabilities_2019": 1383014
+    },
+    {
+      "candidate_id": 4850,
+      "name": "Manne Srinivas Reddy",
+      "constituency": "MAHBUBNAGAR",
+      "party": "TRS",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9330,
+      "name": "Shardaben Anilbhai Patel",
+      "constituency": "MAHESANA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 440308300,
+      "liabilities_2019": 7477793
+    },
+    {
+      "candidate_id": 7433,
+      "name": "Mulayam Singh Yadav",
+      "constituency": "MAINPURI",
+      "party": "SP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 205604593,
+      "liabilities_2019": 22055657
+    },
+    {
+      "candidate_id": 9230,
+      "name": "Kunhalikutty",
+      "constituency": "MALAPPURAM",
+      "party": "IUML",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7856,
+      "name": "Abu Hasem Khan Chowdhury",
+      "constituency": "MALDAHA DAKSHIN",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 270959520,
+      "liabilities_2019": 728107
+    },
+    {
+      "candidate_id": 7454,
+      "name": "Khagen Murmu",
+      "constituency": "MALDAHA UTTAR",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 10232439,
+      "liabilities_2019": 1070914
+    },
+    {
+      "candidate_id": 13018,
+      "name": "Ram Swaroop Sharma",
+      "constituency": "MANDI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 15724337,
+      "liabilities_2019": 783963
+    },
+    {
+      "candidate_id": 10321,
+      "name": "Faggan Singh Kulaste",
+      "constituency": "MANDLA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 26702373,
+      "liabilities_2019": 1000075
+    },
+    {
+      "candidate_id": 13095,
+      "name": "Sudheer Gupta",
+      "constituency": "MANDSOUR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7742,
+      "name": "Sumalatha Ambareesh",
+      "constituency": "MANDYA",
+      "party": "IND",
+      "criminal_cases_2019": 0,
+      "assets_2019": 234154139,
+      "liabilities_2019": 14232295
+    },
+    {
+      "candidate_id": 5370,
+      "name": "Shri Dilip Saikia",
+      "constituency": "MANGALDOI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 6206286,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5485,
+      "name": "Hema Malini Dharmendra Deol",
+      "constituency": "MATHURA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12745,
+      "name": "Choudhury Mohan Jatua",
+      "constituency": "MATHURAPUR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 10667304,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 10006,
+      "name": "Shrirang Chandu Barne",
+      "constituency": "MAVAL",
+      "party": "SHS",
+      "criminal_cases_2019": 3,
+      "assets_2019": 1023310134,
+      "liabilities_2019": 416612
+    },
+    {
+      "candidate_id": 5316,
+      "name": "Ramalingam S",
+      "constituency": "MAYILADUTHURAI",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 13355095,
+      "liabilities_2019": 215000
+    },
+    {
+      "candidate_id": 10140,
+      "name": "Bishweswar Tudu",
+      "constituency": "MAYURBHANJ",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 2742000,
+      "liabilities_2019": 400000
+    },
+    {
+      "candidate_id": 5079,
+      "name": "Kotha Prabhakar Reddy",
+      "constituency": "MEDAK",
+      "party": "TRS",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12473,
+      "name": "Dilip Kumar Ghosh",
+      "constituency": "MEDINIPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 14,
+      "assets_2019": 4536462,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 6134,
+      "name": "Rajendra Agarwal",
+      "constituency": "MEERUT",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 13489377,
+      "liabilities_2019": 1990094
+    },
+    {
+      "candidate_id": 12928,
+      "name": "Anupriya Singh Patel",
+      "constituency": "MIRZAPUR",
+      "party": "Apna Dal (Soneylal)",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9720,
+      "name": "Ashok Kumar",
+      "constituency": "MISRIKH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 48771207,
+      "liabilities_2019": 5735470
+    },
+    {
+      "candidate_id": 4900,
+      "name": "C Lalrosanga",
+      "constituency": "MIZORAM",
+      "party": "MNF",
+      "criminal_cases_2019": 0,
+      "assets_2019": 131201374,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8357,
+      "name": "Dr. S T Hasan",
+      "constituency": "MORADABAD",
+      "party": "SP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 55795546,
+      "liabilities_2019": 500000
+    },
+    {
+      "candidate_id": 12247,
+      "name": "Narendra Singh Tomar",
+      "constituency": "MORENA",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 23062224,
+      "liabilities_2019": 6689767
+    },
+    {
+      "candidate_id": 9870,
+      "name": "Gopal Chinnaya Shetty",
+      "constituency": "MUMBAI NORTH",
+      "party": "BJP",
+      "criminal_cases_2019": 9,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9964,
+      "name": "Poonam Vajendla Rao",
+      "constituency": "MUMBAI NORTH CENTRAL",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 22242513,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9948,
+      "name": "Manoj Kishorbhai Kotak",
+      "constituency": "MUMBAI NORTH EAST",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 54661944,
+      "liabilities_2019": 2048000
+    },
+    {
+      "candidate_id": 9895,
+      "name": "Gajanan Chandrakant Kirtikar",
+      "constituency": "MUMBAI NORTH WEST",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9988,
+      "name": "Arvind Sawant",
+      "constituency": "MUMBAI SOUTH",
+      "party": "SHS",
+      "criminal_cases_2019": 1,
+      "assets_2019": 27181577,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9974,
+      "name": "Rahul Ramesh Shewale",
+      "constituency": "MUMBAI SOUTH CENTRAL",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 18881363,
+      "liabilities_2019": 7778954
+    },
+    {
+      "candidate_id": 7462,
+      "name": "Abu Taher Khan",
+      "constituency": "MURSHIDABAD",
+      "party": "AITC",
+      "criminal_cases_2019": 3,
+      "assets_2019": 8926616,
+      "liabilities_2019": 1350000
+    },
+    {
+      "candidate_id": 6097,
+      "name": "Sanjeev Kumar Balyan",
+      "constituency": "MUZAFFARNAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 15781189,
+      "liabilities_2019": 2373645
+    },
+    {
+      "candidate_id": 11089,
+      "name": "Ajay Nishad",
+      "constituency": "MUZAFFARPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7717,
+      "name": "Prathap Simha",
+      "constituency": "MYSORE",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 18723762,
+      "liabilities_2019": 6586698
+    },
+    {
+      "candidate_id": 5544,
+      "name": "Ramesh Chandra Majhi",
+      "constituency": "NABARANGPUR",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": 8100600,
+      "liabilities_2019": 771000
+    },
+    {
+      "candidate_id": 4902,
+      "name": "Tokheho Yepthomi",
+      "constituency": "NAGALAND",
+      "party": "Nationalist Democratic Progressive Party",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8133,
+      "name": "Selvaraj M",
+      "constituency": "NAGAPATTINAM",
+      "party": "CPI",
+      "criminal_cases_2019": 0,
+      "assets_2019": 4572837,
+      "liabilities_2019": 1251381
+    },
+    {
+      "candidate_id": 4851,
+      "name": "Pothuganti Ramulu",
+      "constituency": "NAGARKURNOOL",
+      "party": "TRS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 10778684,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5492,
+      "name": "Girish Chandra",
+      "constituency": "NAGINA",
+      "party": "BSP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 28659644,
+      "liabilities_2019": 9062600
+    },
+    {
+      "candidate_id": 5804,
+      "name": "Nitin Jairam Gadkari",
+      "constituency": "NAGPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 187916075,
+      "liabilities_2019": 40729055
+    },
+    {
+      "candidate_id": 5832,
+      "name": "Ajay Bhatt",
+      "constituency": "NAINITAL-UDHAMSINGH NAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13046,
+      "name": "Kaushlendra Kumar",
+      "constituency": "NALANDA",
+      "party": "JD(U)",
+      "criminal_cases_2019": 0,
+      "assets_2019": 29251651,
+      "liabilities_2019": 2712389
+    },
+    {
+      "candidate_id": 4854,
+      "name": "Nalamada Uttam Kumar Reddy",
+      "constituency": "NALGONDA",
+      "party": "INC",
+      "criminal_cases_2019": 4,
+      "assets_2019": 31501349,
+      "liabilities_2019": 1200000
+    },
+    {
+      "candidate_id": 5275,
+      "name": "Chinraj A.K.P",
+      "constituency": "NAMAKKAL",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5480,
+      "name": "Chikhalikar Pratap Govindrao",
+      "constituency": "NANDED",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 52178606,
+      "liabilities_2019": 594000
+    },
+    {
+      "candidate_id": 9798,
+      "name": "Heena Vijaykumar Gavit",
+      "constituency": "NANDURBAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 271634532,
+      "liabilities_2019": 15291251
+    },
+    {
+      "candidate_id": 4802,
+      "name": "Lavu Sri Krishna Devarayalu",
+      "constituency": "NARASARAOPET",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 177710073,
+      "liabilities_2019": 10142413
+    },
+    {
+      "candidate_id": 4681,
+      "name": "Kanumuru Raghu Rama Krishna Raju",
+      "constituency": "NARSAPURAM",
+      "party": "YSRCP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 3259405378,
+      "liabilities_2019": 1014467354
+    },
+    {
+      "candidate_id": 9825,
+      "name": "Hemant Tukaram Godse",
+      "constituency": "NASHIK",
+      "party": "SHS",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7712,
+      "name": "Patil Chandrakant",
+      "constituency": "NAVSARI",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 446044269,
+      "liabilities_2019": 56846658
+    },
+    {
+      "candidate_id": 5621,
+      "name": "Chandan Singh",
+      "constituency": "NAWADA",
+      "party": "LJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 176720167,
+      "liabilities_2019": 4722200
+    },
+    {
+      "candidate_id": 5934,
+      "name": "Pradyut Bordoloi",
+      "constituency": "NAWGONG",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5056,
+      "name": "Adala Prabhakara Reddy",
+      "constituency": "NELLORE",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 2211663364,
+      "liabilities_2019": 152281255
+    },
+    {
+      "candidate_id": 12704,
+      "name": "Meenakashi Lekhi",
+      "constituency": "NEW DELHI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 361441689,
+      "liabilities_2019": 7938378
+    },
+    {
+      "candidate_id": 4828,
+      "name": "Dharmapuri Arvind",
+      "constituency": "NIZAMABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 876930468,
+      "liabilities_2019": 337580746
+    },
+    {
+      "candidate_id": 12699,
+      "name": "Manoj Tiwari",
+      "constituency": "NORTH EAST DELHI",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 244067031,
+      "liabilities_2019": 13618755
+    },
+    {
+      "candidate_id": 9055,
+      "name": "Shripad Yesso Naik",
+      "constituency": "NORTH GOA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12712,
+      "name": "Hans Raj Hans",
+      "constituency": "NORTH WEST DELHI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 131137732,
+      "liabilities_2019": 47897494
+    },
+    {
+      "candidate_id": 4722,
+      "name": "Magunta Sreenivasulu Reddy",
+      "constituency": "ONGOLE",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 266583686,
+      "liabilities_2019": 91302133
+    },
+    {
+      "candidate_id": 5193,
+      "name": "Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
+      "constituency": "OSMANABAD",
+      "party": "SHS",
+      "criminal_cases_2019": 4,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4709,
+      "name": "Lorho S. Pfoze",
+      "constituency": "OUTER MANIPUR",
+      "party": "NPF",
+      "criminal_cases_2019": 0,
+      "assets_2019": 13709352,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9254,
+      "name": "V K Sreekandan",
+      "constituency": "PALAKKAD",
+      "party": "INC",
+      "criminal_cases_2019": 7,
+      "assets_2019": 6356399,
+      "liabilities_2019": 2709000
+    },
+    {
+      "candidate_id": 9827,
+      "name": "Gavit Rajendra Dhedya",
+      "constituency": "PALGHAR",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 87616920,
+      "liabilities_2019": 30223375
+    },
+    {
+      "candidate_id": 9614,
+      "name": "P. P. Chaudhary",
+      "constituency": "PALI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 385111923,
+      "liabilities_2019": 7278041
+    },
+    {
+      "candidate_id": 8505,
+      "name": "Ratansinh Rathod",
+      "constituency": "PANCHMAHAL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 6586,
+      "name": "Jadhav Sanjay (Bandu) Haribhau",
+      "constituency": "PARBHANI",
+      "party": "SHS",
+      "criminal_cases_2019": 6,
+      "assets_2019": 41040011,
+      "liabilities_2019": 4519583
+    },
+    {
+      "candidate_id": 12087,
+      "name": "Dr. Sanjay Jaiswal",
+      "constituency": "PASCHIM CHAMPARAN",
+      "party": "BJP",
+      "criminal_cases_2019": 5,
+      "assets_2019": 199404885,
+      "liabilities_2019": 67370030
+    },
+    {
+      "candidate_id": 13057,
+      "name": "Ram Kripal Yadav",
+      "constituency": "PATALIPUTRA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8012,
+      "name": "Dabhi Bharatsinhji Shankarji",
+      "constituency": "PATAN",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 47373221,
+      "liabilities_2019": 5613860
+    },
+    {
+      "candidate_id": 9088,
+      "name": "Anto Antony",
+      "constituency": "PATHANAMTHITTA",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 6076143,
+      "liabilities_2019": 7723227
+    },
+    {
+      "candidate_id": 13050,
+      "name": "Ravi Shankar Prasad",
+      "constituency": "PATNA SAHIB",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 235275591,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5071,
+      "name": "Venkatesh Netha Borlakunta",
+      "constituency": "PEDDAPALLE",
+      "party": "TRS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 16597300,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5860,
+      "name": "Paarivendhar T R",
+      "constituency": "PERAMBALUR",
+      "party": "DMK",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13464,
+      "name": "Keshari Devi Patel",
+      "constituency": "PHULPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 172707104,
+      "liabilities_2019": 6505194
+    },
+    {
+      "candidate_id": 7446,
+      "name": "Feroze Varun Gandhi",
+      "constituency": "PILIBHIT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 603200539,
+      "liabilities_2019": 28952800
+    },
+    {
+      "candidate_id": 4752,
+      "name": "K Shanmugasundaram",
+      "constituency": "POLLACHI",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9238,
+      "name": "E T Mohammed Basheer",
+      "constituency": "PONNANI",
+      "party": "IUML",
+      "criminal_cases_2019": 0,
+      "assets_2019": 8103274,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8496,
+      "name": "Rameshbhai Dhaduk",
+      "constituency": "PORBANDAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 357564783,
+      "liabilities_2019": 217944697
+    },
+    {
+      "candidate_id": 4980,
+      "name": "V. Vaithilingam",
+      "constituency": "PUDUCHERRY",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 108015548,
+      "liabilities_2019": 520989
+    },
+    {
+      "candidate_id": 7771,
+      "name": "Girish Bhalchandra Bapat",
+      "constituency": "PUNE",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 57959302,
+      "liabilities_2019": 1793891
+    },
+    {
+      "candidate_id": 8390,
+      "name": "Pinaki Misra",
+      "constituency": "PURI",
+      "party": "BJD",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4956,
+      "name": "Santosh Kumar",
+      "constituency": "PURNIA",
+      "party": "JD(U)",
+      "criminal_cases_2019": 1,
+      "assets_2019": 41036294,
+      "liabilities_2019": 2500000
+    },
+    {
+      "candidate_id": 12478,
+      "name": "Jyotirmay Singh Mahato",
+      "constituency": "PURULIA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 2250540,
+      "liabilities_2019": 456100
+    },
+    {
+      "candidate_id": 12089,
+      "name": "Radha Mohan Singh",
+      "constituency": "PURVI CHAMPARAN",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11072,
+      "name": "Sonia Gandhi",
+      "constituency": "RAE BARELI",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 118263916,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7255,
+      "name": "Raja Amareshwara Naik",
+      "constituency": "RAICHUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 30638375,
+      "liabilities_2019": 678532
+    },
+    {
+      "candidate_id": 7230,
+      "name": "Debasree Chaudhuri",
+      "constituency": "RAIGANJ",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 6139123,
+      "liabilities_2019": 823416
+    },
+    {
+      "candidate_id": 7496,
+      "name": "Gomati",
+      "constituency": "RAIGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 7043539,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7502,
+      "name": "Sunil Kumar Soni",
+      "constituency": "RAIPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4727,
+      "name": "Margani Bharat Ram",
+      "constituency": "RAJAHMUNDRY",
+      "party": "YSRCP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 458205360,
+      "liabilities_2019": 17814757
+    },
+    {
+      "candidate_id": 4626,
+      "name": "P.V.Midhun Reddy",
+      "constituency": "RAJAMPET",
+      "party": "YSRCP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 665085701,
+      "liabilities_2019": 205473477
+    },
+    {
+      "candidate_id": 12253,
+      "name": "Rodmal Nagar",
+      "constituency": "RAJGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8494,
+      "name": "Kundaria Mohanbhai",
+      "constituency": "RAJKOT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 68818120,
+      "liabilities_2019": 16566856
+    },
+    {
+      "candidate_id": 12723,
+      "name": "Vijay Kumar Hansdak",
+      "constituency": "RAJMAHAL",
+      "party": "JMM",
+      "criminal_cases_2019": 0,
+      "assets_2019": 12919555,
+      "liabilities_2019": 2743560
+    },
+    {
+      "candidate_id": 9565,
+      "name": "Diya Kumari",
+      "constituency": "RAJSAMAND",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 165984623,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8952,
+      "name": "K. Navaskani",
+      "constituency": "RAMANATHAPURAM",
+      "party": "IUML",
+      "criminal_cases_2019": 1,
+      "assets_2019": 364738171,
+      "liabilities_2019": 47008615
+    },
+    {
+      "candidate_id": 7914,
+      "name": "Mohammad Azam Khan",
+      "constituency": "RAMPUR",
+      "party": "SP",
+      "criminal_cases_2019": 10,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5725,
+      "name": "Krupal Balaji Tumane",
+      "constituency": "RAMTEK",
+      "party": "SHS",
+      "criminal_cases_2019": 0,
+      "assets_2019": 95603165,
+      "liabilities_2019": 4228793
+    },
+    {
+      "candidate_id": 11255,
+      "name": "Jagannath Sarkar",
+      "constituency": "RANAGHAT",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 17622476,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 11383,
+      "name": "Sanjay Seth",
+      "constituency": "RANCHI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13101,
+      "name": "Guman Singh Damor",
+      "constituency": "RATLAM",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 42072262,
+      "liabilities_2019": 4890940
+    },
+    {
+      "candidate_id": 7775,
+      "name": "Vinayak Bhaurao Raut",
+      "constituency": "RATNAGIRI SINDHUDURG",
+      "party": "SHS",
+      "criminal_cases_2019": 3,
+      "assets_2019": 50660534,
+      "liabilities_2019": 2830000
+    },
+    {
+      "candidate_id": 11596,
+      "name": "Janardan Prasad Mishra",
+      "constituency": "REWA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 20359750,
+      "liabilities_2019": 580627
+    },
+    {
+      "candidate_id": 12922,
+      "name": "Pakauri Lal",
+      "constituency": "ROBERTSGANJ",
+      "party": "Apna Dal (Soneylal)",
+      "criminal_cases_2019": 0,
+      "assets_2019": 23048078,
+      "liabilities_2019": 684133
+    },
+    {
+      "candidate_id": 12513,
+      "name": "Arvind Kumar Sharma",
+      "constituency": "ROHTAK",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8581,
+      "name": "Rathod Dipsinh Shankarsinh",
+      "constituency": "SABARKANTHA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 23997443,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12519,
+      "name": "Rajbahadur Singh",
+      "constituency": "SAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 16416828,
+      "liabilities_2019": 547428
+    },
+    {
+      "candidate_id": 6076,
+      "name": "Haji Fazlur Rehman",
+      "constituency": "SAHARANPUR",
+      "party": "BSP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5271,
+      "name": "Parthiban.S.R",
+      "constituency": "SALEM",
+      "party": "DMK",
+      "criminal_cases_2019": 4,
+      "assets_2019": 60045532,
+      "liabilities_2019": 4039841
+    },
+    {
+      "candidate_id": 12917,
+      "name": "Ravinder",
+      "constituency": "SALEMPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 27031724,
+      "liabilities_2019": 249400
+    },
+    {
+      "candidate_id": 8477,
+      "name": "Nitesh Ganga Deb",
+      "constituency": "SAMBALPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 269543587,
+      "liabilities_2019": 10337195
+    },
+    {
+      "candidate_id": 7451,
+      "name": "Dr. Shafiqur Rehman Barq",
+      "constituency": "SAMBHAL",
+      "party": "SP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 13296671,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 7778,
+      "name": "Sanjaykaka Patil",
+      "constituency": "SANGLI",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13179,
+      "name": "Bhagwant Mann",
+      "constituency": "SANGRUR",
+      "party": "AAP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 16427274,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13490,
+      "name": "Praveen Kumar Nishad",
+      "constituency": "SANT KABIR NAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 4300614,
+      "liabilities_2019": 2326248
+    },
+    {
+      "candidate_id": 11338,
+      "name": "Rajiv Pratap Rudy",
+      "constituency": "SARAN",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13076,
+      "name": "Chhedi Paswan",
+      "constituency": "SASARAM",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 37786578,
+      "liabilities_2019": 2214842
+    },
+    {
+      "candidate_id": 7780,
+      "name": "Bhonsle Shrimant Chhatrapati Udayanraje Pratapasinh Maharaj",
+      "constituency": "SATARA",
+      "party": "NCP",
+      "criminal_cases_2019": 8,
+      "assets_2019": 1996813173,
+      "liabilities_2019": 12340338
+    },
+    {
+      "candidate_id": 4839,
+      "name": "Gangapuram Kishan Reddy",
+      "constituency": "SECUNDERABAD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 81430778,
+      "liabilities_2019": 4500000
+    },
+    {
+      "candidate_id": 10291,
+      "name": "Himadri Singh",
+      "constituency": "SHAHDOL",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 36564408,
+      "liabilities_2019": 1736289
+    },
+    {
+      "candidate_id": 9707,
+      "name": "Arun Kumar Sagar",
+      "constituency": "SHAHJAHANPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12098,
+      "name": "Rama Devi",
+      "constituency": "SHEOHAR",
+      "party": "BJP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 328364940,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4781,
+      "name": "Vincent H. Pala",
+      "constituency": "SHILLONG",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 549515421,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13030,
+      "name": "Suresh Kumar Kashyap",
+      "constituency": "SHIMLA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7055,
+      "name": "B.Y.Raghavendra",
+      "constituency": "SHIMOGA",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 674091851,
+      "liabilities_2019": 14150647
+    },
+    {
+      "candidate_id": 10023,
+      "name": "Sadashiv Kisan Lokhande",
+      "constituency": "SHIRDI",
+      "party": "SHS",
+      "criminal_cases_2019": 1,
+      "assets_2019": 113710526,
+      "liabilities_2019": 205100
+    },
+    {
+      "candidate_id": 12424,
+      "name": "Ram Shiromani",
+      "constituency": "SHRAWASTI",
+      "party": "BSP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 19108216,
+      "liabilities_2019": 350000
+    },
+    {
+      "candidate_id": 10272,
+      "name": "Riti Pathak",
+      "constituency": "SIDHI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 51541791,
+      "liabilities_2019": 505922
+    },
+    {
+      "candidate_id": 11572,
+      "name": "Sumedhanand Saraswati",
+      "constituency": "SIKAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5694,
+      "name": "Indra Hang Subba",
+      "constituency": "SIKKIM",
+      "party": "Sikkim Krantikari Morcha",
+      "criminal_cases_2019": 0,
+      "assets_2019": 478817,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5364,
+      "name": "Rajdeep Roy",
+      "constituency": "SILCHAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 29901767,
+      "liabilities_2019": 6976701
+    },
+    {
+      "candidate_id": 12225,
+      "name": "Geeta Kora",
+      "constituency": "SINGHBHUM",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12190,
+      "name": "Sunita Duggal",
+      "constituency": "SIRSA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 42596349,
+      "liabilities_2019": 2500000
+    },
+    {
+      "candidate_id": 11096,
+      "name": "Sunil Kumar",
+      "constituency": "SITAMARHI",
+      "party": "JD(U)",
+      "criminal_cases_2019": 6,
+      "assets_2019": 60717031,
+      "liabilities_2019": 10277790
+    },
+    {
+      "candidate_id": 8093,
+      "name": "Karti P Chidambaram",
+      "constituency": "SIVAGANGA",
+      "party": "INC",
+      "criminal_cases_2019": 8,
+      "assets_2019": 793729024,
+      "liabilities_2019": 174081116
+    },
+    {
+      "candidate_id": 12113,
+      "name": "Kavita Singh",
+      "constituency": "SIWAN",
+      "party": "JD(U)",
+      "criminal_cases_2019": 4,
+      "assets_2019": 19325264,
+      "liabilities_2019": 412511
+    },
+    {
+      "candidate_id": 5498,
+      "name": "Shri. Sha. Bra. Dr. Jay Siddeshwar Shivachrya Mahaswamiji",
+      "constituency": "SOLAPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12197,
+      "name": "Ramesh Chander Kaushik",
+      "constituency": "SONIPAT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 235859266,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 13405,
+      "name": "Ramesh Bidhuri",
+      "constituency": "SOUTH DELHI",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 180052708,
+      "liabilities_2019": 2038454
+    },
+    {
+      "candidate_id": 9064,
+      "name": "Cosme Francisco Caitano Sardinha",
+      "constituency": "SOUTH GOA",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 11205,
+      "name": "Kalyan Banerjee",
+      "constituency": "SREERAMPUR",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 175968902,
+      "liabilities_2019": 5522403
+    },
+    {
+      "candidate_id": 5008,
+      "name": "Rammohannaidu Kinjarapu",
+      "constituency": "SRIKAKULAM",
+      "party": "TDP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 122791042,
+      "liabilities_2019": 12000000
+    },
+    {
+      "candidate_id": 5219,
+      "name": "Baalu.T.R.",
+      "constituency": "SRIPERUMBUDUR",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 208806446,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 12426,
+      "name": "Maneka Sanjay Gandhi",
+      "constituency": "SULTANPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 556926451,
+      "liabilities_2019": 11935800
+    },
+    {
+      "candidate_id": 5886,
+      "name": "Jual Oram",
+      "constituency": "SUNDARGARH",
+      "party": "BJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7626,
+      "name": "Dileshwar Kamait",
+      "constituency": "SUPAUL",
+      "party": "JD(U)",
+      "criminal_cases_2019": 2,
+      "assets_2019": 23441606,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8006,
+      "name": "Jardosh Darshnaben Vikrambhai",
+      "constituency": "SURAT",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 23872876,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8491,
+      "name": "Mahendrabhai Munjpara",
+      "constituency": "SURENDRANAGAR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7510,
+      "name": "Renuka Singh Saruta",
+      "constituency": "SURGUJA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 27682493,
+      "liabilities_2019": 3251275
+    },
+    {
+      "candidate_id": 12482,
+      "name": "Dibyendu Adhikari",
+      "constituency": "TAMLUK",
+      "party": "AITC",
+      "criminal_cases_2019": 1,
+      "assets_2019": 37687867,
+      "liabilities_2019": 8397501
+    },
+    {
+      "candidate_id": 7960,
+      "name": "Dhanush M Kumar",
+      "constituency": "TENKASI",
+      "party": "DMK",
+      "criminal_cases_2019": 1,
+      "assets_2019": 51360700,
+      "liabilities_2019": 2896862
+    },
+    {
+      "candidate_id": 5372,
+      "name": "Pallab Lochan Das",
+      "constituency": "TEZPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 14445139,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9859,
+      "name": "Rajan Baburao Vichare",
+      "constituency": "THANE",
+      "party": "SHS",
+      "criminal_cases_2019": 9,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 8119,
+      "name": "Palanimanickam.S.S",
+      "constituency": "THANJAVUR",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 42452076,
+      "liabilities_2019": 2368600
+    },
+    {
+      "candidate_id": 5333,
+      "name": "P. Raveendranath Kumar",
+      "constituency": "THENI",
+      "party": "AIADMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 65803231,
+      "liabilities_2019": 32734079
+    },
+    {
+      "candidate_id": 9269,
+      "name": "Shashi Tharoor",
+      "constituency": "THIRUVANANTHAPURAM",
+      "party": "INC",
+      "criminal_cases_2019": 2,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 7973,
+      "name": "Kanimozhi Karunanidhi",
+      "constituency": "THOOTHUKKUDI",
+      "party": "DMK",
+      "criminal_cases_2019": 6,
+      "assets_2019": 303373130,
+      "liabilities_2019": 19290928
+    },
+    {
+      "candidate_id": 9157,
+      "name": "T. N. Prathapan",
+      "constituency": "THRISSUR",
+      "party": "INC",
+      "criminal_cases_2019": 7,
+      "assets_2019": 8609349,
+      "liabilities_2019": 2978120
+    },
+    {
+      "candidate_id": 8402,
+      "name": "Thirunavukkarasar. Su",
+      "constituency": "TIRUCHIRAPPALLI",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 32182184,
+      "liabilities_2019": 40208
+    },
+    {
+      "candidate_id": 7927,
+      "name": "Gnanathiraviam S",
+      "constituency": "TIRUNELVELI",
+      "party": "DMK",
+      "criminal_cases_2019": 4,
+      "assets_2019": 232759237,
+      "liabilities_2019": 46149049
+    },
+    {
+      "candidate_id": 5060,
+      "name": "Balli Durgaprasad Rao",
+      "constituency": "TIRUPATI",
+      "party": "YSRCP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 5284,
+      "name": "Subbarayan.K",
+      "constituency": "TIRUPPUR",
+      "party": "CPI",
+      "criminal_cases_2019": 0,
+      "assets_2019": 8035576,
+      "liabilities_2019": 500000
+    },
+    {
+      "candidate_id": 6362,
+      "name": "Dr.K.Jayakumar",
+      "constituency": "TIRUVALLUR",
+      "party": "INC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 24583769,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5248,
+      "name": "Annadurai C N",
+      "constituency": "TIRUVANNAMALAI",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 9623,
+      "name": "Sukhbir Singh Jaunapuria",
+      "constituency": "TONK SAWAI MADHOPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1233802420,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 5708,
+      "name": "Rebati Tripura",
+      "constituency": "TRIPURA EAST",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 1948315,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4960,
+      "name": "G S Basavaraj",
+      "constituency": "TUMKUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 510779150,
+      "liabilities_2019": 113844867
+    },
+    {
+      "candidate_id": 4932,
+      "name": "Agatha K. Sangma",
+      "constituency": "TURA",
+      "party": "NPP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 29406813,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 9583,
+      "name": "Arjunlal Meena",
+      "constituency": "UDAIPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4957,
+      "name": "Dr. Jitendra Singh",
+      "constituency": "UDHAMPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 70827203,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 4958,
+      "name": "Shobha Karandlaje",
+      "constituency": "UDUPI CHIKMAGALUR",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": 104872668,
+      "liabilities_2019": 49936840
+    },
+    {
+      "candidate_id": 10202,
+      "name": "Nityanand Rai",
+      "constituency": "UJIARPUR",
+      "party": "BJP",
+      "criminal_cases_2019": 3,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 13092,
+      "name": "Anil Firojiya",
+      "constituency": "UJJAIN",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 26417937,
+      "liabilities_2019": 3203766
+    },
+    {
+      "candidate_id": 11212,
+      "name": "Sajda Ahmed",
+      "constituency": "ULUBERIA",
+      "party": "AITC",
+      "criminal_cases_2019": 0,
+      "assets_2019": 28351569,
+      "liabilities_2019": 5322615
+    },
+    {
+      "candidate_id": 10364,
+      "name": "Anantkumar Hegde",
+      "constituency": "UTTARA KANNADA",
+      "party": "BJP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 84755455,
+      "liabilities_2019": 41016655
+    },
+    {
+      "candidate_id": 9176,
+      "name": "K. Muraleedharan",
+      "constituency": "VADAKARA",
+      "party": "INC",
+      "criminal_cases_2019": 3,
+      "assets_2019": 114379340,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 8506,
+      "name": "Ranjanben Bhatt",
+      "constituency": "VADODARA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12117,
+      "name": "Veena Devi",
+      "constituency": "VAISHALI",
+      "party": "LJP",
+      "criminal_cases_2019": 2,
+      "assets_2019": 337284632,
+      "liabilities_2019": 112089220
+    },
+    {
+      "candidate_id": 12125,
+      "name": "Baidyanath Prasad Mahto",
+      "constituency": "VALMIKI NAGAR",
+      "party": "JD(U)",
+      "criminal_cases_2019": 4,
+      "assets_2019": 17934888,
+      "liabilities_2019": 2915945
+    },
+    {
+      "candidate_id": 8579,
+      "name": "Dr.K.C.Patel",
+      "constituency": "VALSAD",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 12914,
+      "name": "Narendra Modi",
+      "constituency": "VARANASI",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 25136119,
+      "liabilities_2019": 0
+    },
+    {
+      "candidate_id": 14218,
+      "name": "D.M. Kathir Anand",
+      "constituency": "VELLORE",
+      "party": "DMK",
+      "criminal_cases_2019": 2,
+      "assets_2019": 587579451,
+      "liabilities_2019": 3307588
+    },
+    {
+      "candidate_id": 4798,
+      "name": "Srinivas Kesineni",
+      "constituency": "VIJAYAWADA",
+      "party": "TDP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 808152415,
+      "liabilities_2019": 512332955
+    },
+    {
+      "candidate_id": 8529,
+      "name": "Ravikumar D",
+      "constituency": "VILUPPURAM",
+      "party": "DMK",
+      "criminal_cases_2019": 0,
+      "assets_2019": 6509860,
+      "liabilities_2019": 1369031
+    },
+    {
+      "candidate_id": 8048,
+      "name": "Manickam Tagore, B.",
+      "constituency": "VIRUDHUNAGAR",
+      "party": "INC",
+      "criminal_cases_2019": 1,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4788,
+      "name": "M V V Satyanarayana",
+      "constituency": "VISAKHAPATNAM",
+      "party": "YSRCP",
+      "criminal_cases_2019": 1,
+      "assets_2019": 2030885624,
+      "liabilities_2019": 160030959
+    },
+    {
+      "candidate_id": 5013,
+      "name": "Bellana Chandra Sekhar",
+      "constituency": "VIZIANAGARAM",
+      "party": "YSRCP",
+      "criminal_cases_2019": 4,
+      "assets_2019": 21035766,
+      "liabilities_2019": 11130148
+    },
+    {
+      "candidate_id": 5094,
+      "name": "Dayakar Pasnori",
+      "constituency": "WARANGAL",
+      "party": "TRS",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": 4885,
+      "name": "Ramdas Chandrabhanji Tadas",
+      "constituency": "WARDHA",
+      "party": "BJP",
+      "criminal_cases_2019": 0,
+      "assets_2019": 65807822,
+      "liabilities_2019": 8961387
+    },
+    {
+      "candidate_id": 9208,
+      "name": "Rahul Gandhi",
+      "constituency": "WAYANAD",
+      "party": "INC",
+      "criminal_cases_2019": 5,
+      "assets_2019": 158877063,
+      "liabilities_2019": 7201904
+    },
+    {
+      "candidate_id": 5748,
+      "name": "Bhavana Pundlikrao Gawali",
+      "constituency": "YAVATMAL WASHIM",
+      "party": "SHS",
+      "criminal_cases_2019": 3,
+      "assets_2019": 96873189,
+      "liabilities_2019": 7396250
+    },
+    {
+      "candidate_id": 6753,
+      "name": "B.B.Patil",
+      "constituency": "ZAHIRABAD",
+      "party": "TRS",
+      "criminal_cases_2019": 18,
+      "assets_2019": 1287851556,
+      "liabilities_2019": 11535000
+    },
+    {
+      "candidate_id": null,
+      "name": "Smriti Irani",
+      "constituency": "AMETHI",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 111099609,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Rajnath Singh",
+      "constituency": "LUCKNOW",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 51492709,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Manoj Sinha",
+      "constituency": "GHAZIPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 45285263,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Lallu Singh",
+      "constituency": "FAIZABAD",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 31884642,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Rajesh Verma",
+      "constituency": "DHAURAHRA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 73129716,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Krishna Pratap Singh",
+      "constituency": "AKBARPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 113972361,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Swami Sachchidanand Hari Sakshi",
+      "constituency": "SITAPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 40886941,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Kaushal Kishore",
+      "constituency": "MOHANLALGANJ",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 55530561,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Raja Bhartendra Singh",
+      "constituency": "UNNAO",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 49867061,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Kunwar Sarvesh Kumar",
+      "constituency": "KHERI",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 102903614,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Dharmendra Yadav",
+      "constituency": "BADAUN",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 118688322,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Kamlesh Paswan",
+      "constituency": "BANSGAON",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 171706883,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Rao Uday Pratap Singh",
+      "constituency": "PRATAPGARH",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 154783105,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "B N Chandrappa",
+      "constituency": "HASSAN",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 48222730,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "A Manju",
+      "constituency": "KODAGU",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Dr. Narsaiah Boora",
+      "constituency": "BHONGIR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 237458144,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Dr. Malla Reddy",
+      "constituency": "MALKAJGIRI",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Galla Jayadev",
+      "constituency": "GUNTUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "S. Muniswamy",
+      "constituency": "KURNOOL",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Lavu Sri Krishna Devarayalu",
+      "constituency": "NANDYAL",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Harsimrat Kaur Badal",
+      "constituency": "BATHINDA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 217991987,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Preneet Kaur",
+      "constituency": "PATIALA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Parvesh Sahib Singh Verma",
+      "constituency": "CHANDIGARH",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 155195014,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Ajay Kumar Mandal",
+      "constituency": "BHAGALPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Rajiv Ranjan Singh",
+      "constituency": "MUNGER",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 30364808,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Vishnu Dayal Ram",
+      "constituency": "PALAMAU",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Uday Pratap Singh",
+      "constituency": "HOSHANGABAD",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Ramakant Bhargava",
+      "constituency": "VIDISHA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Virendra Kumar",
+      "constituency": "TIKAMGARH",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 21503766,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Ganesh Singh",
+      "constituency": "SATNA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 41719076,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Devaji Patel",
+      "constituency": "RAJNANDGAON",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 88332292,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Ashok Nete",
+      "constituency": "GADCHIROLI CHIMUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 50136369,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Sunil Tatkare",
+      "constituency": "RAIGAD",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Khadse Raksha Nikhil",
+      "constituency": "RAVER",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 172713734,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Shivajirao Adhalrao Patil",
+      "constituency": "SHIRUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Saumitra Khan",
+      "constituency": "BISHNUPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 8656777,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Raju Bista",
+      "constituency": "DARJEELING",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Sougata Ray",
+      "constituency": "DUM DUM",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 42518790,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Pratima Mondal",
+      "constituency": "JOYNAGAR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Nisith Pramanik",
+      "constituency": "COOCH BEHAR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "NK Premachandran",
+      "constituency": "KOLLAM",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 17500650,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Kodikunnil Suresh",
+      "constituency": "MAVELIKKARA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 12965129,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "A Raja",
+      "constituency": "NILGIRIS",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "M Selvaraj",
+      "constituency": "KANCHEEPURAM",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Parbat Patel",
+      "constituency": "BANASKANTHA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "CR Patil",
+      "constituency": "BARDOLI",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Ramabhai Baria",
+      "constituency": "CHHOTA UDAIPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Rajashree Mallick",
+      "constituency": "JAGATSINGHPUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Baijayant Panda",
+      "constituency": "KENDRAPARA",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 574415842,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Hanuman Beniwal",
+      "constituency": "NAGAUR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Farooq Abdullah",
+      "constituency": "SRINAGAR",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": 121904435,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Jitendra Chaudhury",
+      "constituency": "TRIPURA WEST",
+      "party": "",
+      "criminal_cases_2019": 2,
+      "assets_2019": 22751748,
+      "liabilities_2019": null
+    },
+    {
+      "candidate_id": null,
+      "name": "Parvesh Sahib Singh Verma",
+      "constituency": "WEST DELHI",
+      "party": "",
+      "criminal_cases_2019": 0,
+      "assets_2019": null,
+      "liabilities_2019": null
+    }
+  ],
+  "scraped_at": "2026-03-09T10:00:00.000Z",
+  "total": 533,
+  "source": "https://www.myneta.info/LokSabha2019/"
+}

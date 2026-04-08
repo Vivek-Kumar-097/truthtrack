@@ -1,0 +1,2108 @@
+[
+  {
+    "name": "Arun Kumar Sagar",
+    "constituency": "Shahjahanpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "K. Francis George",
+    "constituency": "Kottayam",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sudama Prasad",
+    "constituency": "Arrah",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Arup Chakraborty",
+    "constituency": "Bankura",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Aditya Yadav",
+    "constituency": "Badaun",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Alok Sharma",
+    "constituency": "Bhopal",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Murlidhar Mohol",
+    "constituency": "Pune",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kripanath Mallah",
+    "constituency": "Karimganj",
+    "state": "Assam",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shankar Lalwani",
+    "constituency": "Indore",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gajendra Singh Patel",
+    "constituency": "Khargone",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Saptagiri Sankar Ulaka",
+    "constituency": "Koraput",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vijay Baghel",
+    "constituency": "Durg",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Babu Singh Kushwaha",
+    "constituency": "Jaunpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anil Yeshwant Desai",
+    "constituency": "Mumbai South Central",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Arun Bharti",
+    "constituency": "Jamui",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Adoor Prakash",
+    "constituency": "Attingal",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dimple Yadav",
+    "constituency": "Mainpuri",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anand Bhadauria",
+    "constituency": "Dhaurahra",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gopal Jee Thakur",
+    "constituency": "Darbhanga",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Aga Syed Ruhullah Mehdi",
+    "constituency": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chhatrapal Singh Gangwar",
+    "constituency": "Bareilly",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jagannath Sarkar",
+    "constituency": "Ranaghat",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Hemang Joshi",
+    "constituency": "Vadodara",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ramvir Singh Bidhuri",
+    "constituency": "South Delhi",
+    "state": "Delhi",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chandan Chauhan",
+    "constituency": "Bijnor",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Abhay Kumar Sinha",
+    "constituency": "Aurangabad",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Prabhakar Reddy Vemireddy",
+    "constituency": "Nellore",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ajendra Singh Lodhi",
+    "constituency": "Hamirpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Malvinder Singh Kang",
+    "constituency": "Anandpur Sahib",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Smita Uday Wagh",
+    "constituency": "Jalgaon",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Manohar Lal",
+    "constituency": "Karnal",
+    "state": "Haryana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Giriraj Singh",
+    "constituency": "Begusarai",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Alfred Kanngam S Arthur",
+    "constituency": "Outer Manipur",
+    "state": "Manipur",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Satpal Brahamchari",
+    "constituency": "Sonipat",
+    "state": "Haryana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhumare Sandipanrao Asaram",
+    "constituency": "Aurangabad",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Brijesh Chowta",
+    "constituency": "Dakshina Kannada",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Viriato Fernandes",
+    "constituency": "South Goa",
+    "state": "Goa",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Piyush Vedprakash Goyal",
+    "constituency": "Mumbai North",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Parimal Suklabaidya",
+    "constituency": "Silchar",
+    "state": "Assam",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anurag Sharma",
+    "constituency": "Jhansi",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sarabjeet Singh Khalsa",
+    "constituency": "Faridkot",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajpalsinh Mahendrasinh Jadav",
+    "constituency": "Panchmahal",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rakesh Rathor",
+    "constituency": "Sitapur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajnath Singh",
+    "constituency": "Lucknow",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajeev Bhardwaj",
+    "constituency": "Kangra",
+    "state": "Himachal Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Govind Makthappa Karjol",
+    "constituency": "Chitradurga",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shyamkumar Daulat Barve",
+    "constituency": "Ramtek",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
+    "constituency": "Osmanabad",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sanjay Seth",
+    "constituency": "Ranchi",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Aparajita Sarangi",
+    "constituency": "Bhubaneswar",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "D K Aruna",
+    "constituency": "Mahbubnagar",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Thirumaavalavan Tholkappiyan",
+    "constituency": "Chidambaram",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Daggubati Purandeswari",
+    "constituency": "Rajahmundry",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sudha R",
+    "constituency": "Mayiladuthurai",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Devesh Chandra Thakur",
+    "constituency": "Sitamarhi",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bajrang Manohar Sonwane",
+    "constituency": "Beed",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sukanta Majumdar",
+    "constituency": "Balurghat",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Tangella Uday Srinivas",
+    "constituency": "Kakinada",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vishweshwar Hegde Kageri",
+    "constituency": "Uttara Kannada",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Aashtikar Patil Nagesh Bapurao",
+    "constituency": "Hingoli",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Abhijit Gangopadhyay",
+    "constituency": "Tamluk",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Amra Ram",
+    "constituency": "Sikar",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "B K Parthasarathi",
+    "constituency": "Hindupur",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gurmeet Singh Meet Hayer",
+    "constituency": "Sangrur",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Angomcha Bimol Akoijam",
+    "constituency": "Inner Manipur",
+    "state": "Manipur",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anil Baluni",
+    "constituency": "Garhwal",
+    "state": "Uttarakhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Balashowry Vallabhaneni",
+    "constituency": "Machilipatnam",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dineshbhai Makwana",
+    "constituency": "Ahmedabad West",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anita Nagarsingh Chouhan",
+    "constituency": "Ratlam",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anoop Pradhan Valmiki",
+    "constituency": "Hathras",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Balram Naik Porika",
+    "constituency": "Mahabubabad",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Zia Ur Rehman",
+    "constituency": "Sambhal",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Arun Govil",
+    "constituency": "Meerut",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chirag Paswan",
+    "constituency": "Hajipur",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Benny Behanan",
+    "constituency": "Chalakudy",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Daggumalla Prasada Rao",
+    "constituency": "Chittoor",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mahua Moitra",
+    "constituency": "Krishnanagar",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Avimanyu Sethi",
+    "constituency": "Bhadrak",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ashish Dubey",
+    "constituency": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Brijmohan Agrawal",
+    "constituency": "Raipur",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Arvind Dharmapuri",
+    "constituency": "Nizamabad",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Atul Garg",
+    "constituency": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Awadhesh Prasad",
+    "constituency": "Faizabad",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bachhav Shobha Dinesh",
+    "constituency": "Dhule",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Lalji Verma",
+    "constituency": "Ambedkar Nagar",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Basavaraj Bommai",
+    "constituency": "Haveri",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Amar Singh",
+    "constituency": "Fatehgarh Sahib",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bansuri Swaraj",
+    "constituency": "New Delhi",
+    "state": "Delhi",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhagirath Choudhary",
+    "constituency": "Ajmer",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhajan Lal Jatav",
+    "constituency": "Karauli-Dholpur",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bharatbhai Manubhai Sutariya",
+    "constituency": "Amreli",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhaskar Murlidhar Bhagare",
+    "constituency": "Dindori",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhupender Yadav",
+    "constituency": "Alwar",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chandra Shekhar",
+    "constituency": "Nagina",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajesh Ranjan",
+    "constituency": "Purnia",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Biplab Kumar Deb",
+    "constituency": "Tripura West",
+    "state": "Tripura",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ram Shiromani Verma",
+    "constituency": "Shrawasti",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dulu Mahato",
+    "constituency": "Dhanbad",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bunty Vivek Sahu",
+    "constituency": "Chhindwara",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Brijendra Singh Ola",
+    "constituency": "Jhunjhunu",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ramasahayam Raghuram Reddy",
+    "constituency": "Khammam",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chamala Kiran Kumar Reddy",
+    "constituency": "Bhongir",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Amol Ramsing Kolhe",
+    "constituency": "Shirur",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ravindra Dattaram Waikar",
+    "constituency": "Mumbai North West",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chandrakant Raghunath Patil",
+    "constituency": "Navsari",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Tejasvi Surya",
+    "constituency": "Bangalore South",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chandubhai Chhaganbhai Shihora",
+    "constituency": "Surendranagar",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chavan Vasantrao Balwantrao",
+    "constituency": "Nanded",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chavan Ravindra Vasantrao",
+    "constituency": "Nanded",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Charanjit Singh Channi",
+    "constituency": "Jalandhar",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bharatsinhji Shankarji Dabhi",
+    "constituency": "Patan",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "S Jagathratchakan",
+    "constituency": "Arakkonam",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dharmendra Pradhan",
+    "constituency": "Sambalpur",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Devesh Shakya",
+    "constituency": "Etah",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dhaval Laxmanbhai Patel",
+    "constituency": "Valsad",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dharamvira Gandhi",
+    "constituency": "Patiala",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vijaylakshmi Devi",
+    "constituency": "Siwan",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Lata Wankhede",
+    "constituency": "Sagar",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sanatan Pandey",
+    "constituency": "Ballia",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Abu Taher Khan",
+    "constituency": "Murshidabad",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajesh Mishra",
+    "constituency": "Sidhi",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhojraj Nag",
+    "constituency": "Kanker",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Durai Vaiko",
+    "constituency": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Durgadas D D Uikey",
+    "constituency": "Betul",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ricky Andrew J Syngkon",
+    "constituency": "Shillong",
+    "state": "Meghalaya",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Santosh Pandey",
+    "constituency": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "G Kumar Naik",
+    "constituency": "Raichur",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gowaal Kagada Padavi",
+    "constituency": "Nandurbar",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jai Prakash",
+    "constituency": "Hardoi",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "G Kishan Reddy",
+    "constituency": "Secunderabad",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ganapathy Rajkumar P",
+    "constituency": "Coimbatore",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "H D Kumaraswamy",
+    "constituency": "Mandya",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Selvaganapathi T.M.",
+    "constituency": "Salem",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shafi Parambil",
+    "constituency": "Vadakara",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "K Gopinath",
+    "constituency": "Krishnagiri",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Isha Khan Choudhury",
+    "constituency": "Maldaha Dakshin",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Joyanta Basumatary",
+    "constituency": "Kokrajhar",
+    "state": "Assam",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Byreddy Shabari",
+    "constituency": "Nandyal",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gurjeet Singh Aujla",
+    "constituency": "Amritsar",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jashubhai Bhilubhai Rathva",
+    "constituency": "Chhota Udaipur",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shantanu Thakur",
+    "constituency": "Bangaon",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kesineni Sivanath",
+    "constituency": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kuldeep Indora",
+    "constituency": "Ganganagar",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Hemamalini Dharmendra Deol",
+    "constituency": "Mathura",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Harsh Malhotra",
+    "constituency": "East Delhi",
+    "state": "Delhi",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Himadri Singh",
+    "constituency": "Shahdol",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Pradeep Kumar Panigrahy",
+    "constituency": "Berhampur",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jagadish Shettar",
+    "constituency": "Belgaum",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Eswarasamy K",
+    "constituency": "Pollachi",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Joba Majhi",
+    "constituency": "Singhbhum",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jitendra Kumar Dohare",
+    "constituency": "Etawah",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "D M Kathir Anand",
+    "constituency": "Vellore",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jitin Prasada",
+    "constituency": "Pilibhit",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mahesh Kashyap",
+    "constituency": "Bastar",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dinesh Chandra Yadav",
+    "constituency": "Madhepura",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "June Maliah",
+    "constituency": "Medinipur",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kalipada Saren Kherwal",
+    "constituency": "Jhargram",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Manju Sharma",
+    "constituency": "Jaipur",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "K Sudhakar",
+    "constituency": "Chikkballapur",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shivaji Bandappa Kalge",
+    "constituency": "Latur",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kali Charan Singh",
+    "constituency": "Chatra",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Adhikari Soumendu",
+    "constituency": "Kanthi",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ajay Bhatt",
+    "constituency": "Nainital-Udhamsingh Nagar",
+    "state": "Uttarakhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Khalilur Rahaman",
+    "constituency": "Jangipur",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kishori Lal",
+    "constituency": "Amethi",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Navaskani K",
+    "constituency": "Ramanathapuram",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kunduru Raghuveer",
+    "constituency": "Nalgonda",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kriti Devi Debbarman",
+    "constituency": "Tripura East",
+    "state": "Tripura",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Amritpal Singh",
+    "constituency": "Khadoor Sahib",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "M Mallesh Babu",
+    "constituency": "Kolar",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jai Parkash",
+    "constituency": "Hisar",
+    "state": "Haryana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sudhakar Singh",
+    "constituency": "Buxar",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Hibi Eden",
+    "constituency": "Ernakulam",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Amar Sharadrao Kale",
+    "constituency": "Wardha",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Madhavaneni Raghunandan Rao",
+    "constituency": "Medak",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Manish Tewari",
+    "constituency": "Chandigarh",
+    "state": "Chandigarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Hasmukhbhai Somabhai Patel",
+    "constituency": "Ahmedabad East",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Matheswaran V S",
+    "constituency": "Namakkal",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mansukh Mandaviya",
+    "constituency": "Porbandar",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bag Mitali",
+    "constituency": "Arambagh",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mohmad Haneefa",
+    "constituency": "Ladakh",
+    "state": "Ladakh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rabindra Narayan Behera",
+    "constituency": "Jajpur",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kumari Selja",
+    "constituency": "Sirsa",
+    "state": "Haryana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Narayandas Ahirwar",
+    "constituency": "Jalaun",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Naresh Chandra Uttam Patel",
+    "constituency": "Fatehpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Namdeo Kirsan",
+    "constituency": "Gadchiroli-Chimur",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Malaiyarasan D",
+    "constituency": "Kallakurichi",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Nimuben Jayantibhai Bambhaniya",
+    "constituency": "Bhavnagar",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kanimozhi Karunanidhi",
+    "constituency": "Thoothukkudi",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "K Radhakrishnan",
+    "constituency": "Alathur",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kamaljeet Sehrawat",
+    "constituency": "West Delhi",
+    "state": "Delhi",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajabhau Parag Prakash Waje",
+    "constituency": "Nashik",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rachna Banerjee",
+    "constituency": "Hooghly",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Pathan Yusuf",
+    "constituency": "Baharampur",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "P P Chaudhary",
+    "constituency": "Pali",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Radhakrishna",
+    "constituency": "Gulbarga",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mahendra Singh Solanky",
+    "constituency": "Dewas",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Radheshyam Rathiya",
+    "constituency": "Raigarh",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Pradan Baruah",
+    "constituency": "Lakhimpur",
+    "state": "Assam",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Priya Saroj",
+    "constituency": "Machhlishahr",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Krishna Prasad Tenneti",
+    "constituency": "Bapatla",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Pushpendra Saroj",
+    "constituency": "Kaushambi",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rahul Gandhi",
+    "constituency": "Rae Bareli",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shatrughan Prasad Sinha",
+    "constituency": "Asansol",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ravi Shankar Prasad",
+    "constituency": "Patna Sahib",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Raj Bhushan Choudhary",
+    "constituency": "Muzaffarpur",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Raj Kumar Chabbewal",
+    "constituency": "Hoshiarpur",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "M K Vishnu Prasad",
+    "constituency": "Cuddalore",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajkumar Roat",
+    "constituency": "Banswara",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Lumba Ram",
+    "constituency": "Jalore",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajesh Verma",
+    "constituency": "Khagaria",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Raju Bista",
+    "constituency": "Darjeeling",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ramprit Mandal",
+    "constituency": "Jhanjharpur",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Richard Vanlalhmangaiha",
+    "constituency": "Mizoram",
+    "state": "Mizoram",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sambit Patra",
+    "constituency": "Puri",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ruchi Vira",
+    "constituency": "Moradabad",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sagar Eshwar Khandre",
+    "constituency": "Bidar",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "S Supongmeren Jamir",
+    "constituency": "Nagaland",
+    "state": "Nagaland",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Tharaniventhan M S",
+    "constituency": "Arani",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Saleng A Sangma",
+    "constituency": "Tura",
+    "state": "Meghalaya",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mukeshkumar Chandrakaant Dalal",
+    "constituency": "Surat",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Pradeep Purohit",
+    "constituency": "Bargarh",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sandhya Ray",
+    "constituency": "Bhind",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sanjay Uttamrao Deshmukh",
+    "constituency": "Yavatmal-Washim",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Annpurna Devi",
+    "constituency": "Kodarma",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Neeraj Maurya",
+    "constituency": "Aonla",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sanjna Jatav",
+    "constituency": "Bharatpur",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shashank Mani",
+    "constituency": "Deoria",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Murasoli S",
+    "constituency": "Thanjavur",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ummeda Ram Beniwal",
+    "constituency": "Barmer",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Nilesh Dnyandev Lanke",
+    "constituency": "Ahmednagar",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shreyas M Patel",
+    "constituency": "Hassan",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Naresh Ganpat Mhaske",
+    "constituency": "Thane",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Putta Mahesh Kumar",
+    "constituency": "Eluru",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sunil Bose",
+    "constituency": "Chamarajanagar",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anita Subhadarshini",
+    "constituency": "Aska",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Parshottambhai Rupala",
+    "constituency": "Rajkot",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Suresh Gopi",
+    "constituency": "Thrissur",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Iqra Choudhary",
+    "constituency": "Kairana",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rambhual Nishad",
+    "constituency": "Sultanpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Tokhan Sahu",
+    "constituency": "Bilaspur",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Utkarsh Verma Madhur",
+    "constituency": "Kheri",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Anil Firojiya",
+    "constituency": "Ujjain",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "V Somanna",
+    "constituency": "Tumkur",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Varun Chaudhry",
+    "constituency": "Ambala",
+    "state": "Haryana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Veena Devi",
+    "constituency": "Vaishali",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sachithanantham R",
+    "constituency": "Dindigul",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "S P Singh Baghel",
+    "constituency": "Agra",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Praveen Patel",
+    "constituency": "Phulpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shobhanaben Mahendrasinh Baraiya",
+    "constituency": "Sabarkantha",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Yaduveer Wadiyar",
+    "constituency": "Mysore",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vivek Thakur",
+    "constituency": "Nawada",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sharmila Sarkar",
+    "constituency": "Bardhaman Purba",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kalanidhi Veeraswamy",
+    "constituency": "Chennai North",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Priyanka Gandhi Vadra",
+    "constituency": "Wayanad",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "G M Harish Balayogi",
+    "constituency": "Amalapuram",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Eatala Rajender",
+    "constituency": "Malkajgiri",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gaurav Gogoi",
+    "constituency": "Jorhat",
+    "state": "Assam",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Praveen Khandelwal",
+    "constituency": "Chandni Chowk",
+    "state": "Delhi",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajmohan Unnithan",
+    "constituency": "Kasaragod",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mitesh Patel Bakabhai",
+    "constituency": "Anand",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mohibbullah",
+    "constituency": "Rampur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mohite Patil Dhairyasheel Rajsinh",
+    "constituency": "Madha",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Nalin Soren",
+    "constituency": "Dumka",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vishnu Datt Sharma",
+    "constituency": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Appalanaidu Kalisetti",
+    "constituency": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Amrinder Singh Raja Warring",
+    "constituency": "Ludhiana",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Virendra Singh",
+    "constituency": "Chandauli",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Damodar Agrawal",
+    "constituency": "Bhilwara",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Alok Kumar Suman",
+    "constituency": "Gopalganj",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Arun Nehru",
+    "constituency": "Perambalur",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bhupathiraju Srinivasa Varma",
+    "constituency": "Narsapuram",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bandi Sanjay Kumar",
+    "constituency": "Karimnagar",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bharti Pardhi",
+    "constituency": "Balaghat",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gajendra Singh Shekhawat",
+    "constituency": "Jodhpur",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Geniben Nagaji Thakor",
+    "constituency": "Banaskantha",
+    "state": "Gujarat",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Balwant Baswant Wankhade",
+    "constituency": "Amravati",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chandra Prakash Choudhary",
+    "constituency": "Giridih",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Darshan Singh Choudhary",
+    "constituency": "Hoshangabad",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Harish Chandra Meena",
+    "constituency": "Tonk-Sawai Madhopur",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kamlesh Jangde",
+    "constituency": "Janjgir-Champa",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dhanorkar Pratibha Suresh",
+    "constituency": "Chandrapur",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Bapi Haldar",
+    "constituency": "Mathurapur",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ashok Kumar Yadav",
+    "constituency": "Madhubani",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Dharmendra Yadav",
+    "constituency": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "E T Mohammed Basheer",
+    "constituency": "Malappuram",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rani Srikumar",
+    "constituency": "Tenkasi",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mallu Ravi",
+    "constituency": "Nagarkurnool",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "K E Prakash",
+    "constituency": "Erode",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vinod Kumar Bind",
+    "constituency": "Bhadohi",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kadiyam Kavya",
+    "constituency": "Warangal",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "C N Manjunath",
+    "constituency": "Bangalore Rural",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kangna Ranaut",
+    "constituency": "Mandi",
+    "state": "Himachal Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Indra Hang Subba",
+    "constituency": "Sikkim",
+    "state": "Sikkim",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajkumar Sangwan",
+    "constituency": "Baghpat",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "M P Abdussamad Samadani",
+    "constituency": "Ponnani",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Hemant Vishnu Savara",
+    "constituency": "Palghar",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Gyaneshwar Patil",
+    "constituency": "Khandwa",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "E Tukaram",
+    "constituency": "Bellary",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Jyotsna Charandas Mahant",
+    "constituency": "Korba",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Krishna Devi Shivshankar Patel",
+    "constituency": "Banda",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Manoj Kumar",
+    "constituency": "Sasaram",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Karan Bhushan Singh",
+    "constituency": "Kaiserganj",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Kartick Chandra Paul",
+    "constituency": "Raiganj",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mahima Kumari Mewar",
+    "constituency": "Rajsamand",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Manna Lal Rawat",
+    "constituency": "Udaipur",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Murari Lal Meena",
+    "constituency": "Dausa",
+    "state": "Rajasthan",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Laxmikant Pappu Nishad",
+    "constituency": "Sant Kabir Nagar",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mohammad Jawed",
+    "constituency": "Kishanganj",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Malvika Devi",
+    "constituency": "Kalahandi",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Naba Charan Majhi",
+    "constituency": "Mayurbhanj",
+    "state": "Odisha",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Rajkumar Chahar",
+    "constituency": "Fatehpur Sikri",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Manish Jaiswal",
+    "constituency": "Hazaribagh",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sudheer Gupta",
+    "constituency": "Mandsour",
+    "state": "Madhya Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Roopkumari Choudhary",
+    "constituency": "Mahasamund",
+    "state": "Chhattisgarh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sunil Kumar",
+    "constituency": "Valmiki Nagar",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Robert Bruce C",
+    "constituency": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sayani Ghosh",
+    "constituency": "Jadavpur",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Priyanka Satish Jarkiholi",
+    "constituency": "Chikkodi",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vijayakumar Alias Vijay Vasanth",
+    "constituency": "Kanniyakumari",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Md. Rakibul Hussain",
+    "constituency": "Dhubri",
+    "state": "Assam",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shobha Karandlaje",
+    "constituency": "Bangalore North",
+    "state": "Karnataka",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Vamsi Krishna Gaddam",
+    "constituency": "Peddapalle",
+    "state": "Telangana",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ravindra Shukla Alias Ravi Kishan",
+    "constituency": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ujjwal Raman Singh",
+    "constituency": "Allahabad",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shiv Pal Singh Patel",
+    "constituency": "Pratapgarh",
+    "state": "Uttar Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sajda Ahmed",
+    "constituency": "Uluberia",
+    "state": "West Bengal",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sukhjinder Singh Randhawa",
+    "constituency": "Gurdaspur",
+    "state": "Punjab",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Shambhavi",
+    "constituency": "Samastipur",
+    "state": "Bihar",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Chh. Udayanraje Pratapsinha Maharaj Bhonsle",
+    "constituency": "Satara",
+    "state": "Maharashtra",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Ve Vaithilingam",
+    "constituency": "Puducherry",
+    "state": "Puducherry",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sukhdeo Bhagat",
+    "constituency": "Lohardaga",
+    "state": "Jharkhand",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Yogender Chandolia",
+    "constituency": "North West Delhi",
+    "state": "Delhi",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Sribharat Mathukumilli",
+    "constituency": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "T Sumathy Alias Thamizhachi Thangapandian",
+    "constituency": "Chennai South",
+    "state": "Tamil Nadu",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "V K Sreekandan",
+    "constituency": "Palakkad",
+    "state": "Kerala",
+    "reason": "constituency+name-fail"
+  },
+  {
+    "name": "Mian Altaf Ahmad",
+    "constituency": "Anantnag-Rajouri",
+    "state": "Jammu And Kashmir",
+    "reason": "no-match"
+  },
+  {
+    "name": "Konda Vishweshwar Reddy",
+    "constituency": "Chevella",
+    "state": "Telangana",
+    "reason": "no-match"
+  },
+  {
+    "name": "Azad Kirti Jha",
+    "constituency": "Bardhaman-Durgapur",
+    "state": "West Bengal",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Amarsing Tisso",
+    "constituency": "Diphu",
+    "state": "Assam",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Chintamani Maharaj",
+    "constituency": "Surguja",
+    "state": "Chhattisgarh",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Partha Bhowmick",
+    "constituency": "Barrackpur",
+    "state": "West Bengal",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Maddila Gurumoorthy",
+    "constituency": "Thirupati",
+    "state": "Andhra Pradesh",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Jagadish Chandra Barma Basunia",
+    "constituency": "Coochbehar",
+    "state": "West Bengal",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Dilip Saikia",
+    "constituency": "Darang Udalguri",
+    "state": "Assam",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Ranjit Dutta",
+    "constituency": "Sonitpur",
+    "state": "Assam",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Gumma Thanuja Rani",
+    "constituency": "Araku",
+    "state": "Andhra Pradesh",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Prashant Yadaorao Padole",
+    "constituency": "Bhandara-Gondiya",
+    "state": "Maharashtra",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Bijuli Kalita Medhi",
+    "constituency": "Guwahati",
+    "state": "Assam",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Lavu Sri Krishna Devarayalu",
+    "constituency": "Narsaraopet",
+    "state": "Andhra Pradesh",
+    "reason": "state-only+name-fail"
+  },
+  {
+    "name": "Pradyut Bordoloi",
+    "constituency": "Nagaon",
+    "state": "Assam",
+    "reason": "state-only+name-fail"
+  }
+]
