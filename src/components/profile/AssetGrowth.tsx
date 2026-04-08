@@ -80,7 +80,7 @@ function AssetDetails({ mp }: { mp: Politician }) {
                 fontSize: 12,
                 color: '#fff',
               }}
-              formatter={(v: number) => [formatRupees(v), 'Total Assets']}
+              formatter={(v: number | undefined) => [formatRupees(v ?? 0), 'Total Assets']}
             />
             <Bar dataKey="value" radius={[6, 6, 0, 0]}>
               <Cell fill="#3b82f6" />

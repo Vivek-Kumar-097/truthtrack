@@ -182,19 +182,14 @@ export default function MapPage() {
         }
         const onSvgMouseLeave = () => setTip(null)
 
-        svgNode.addEventListener('mousemove', onSvgMouseMove)
-        svgNode.addEventListener('mouseleave', onSvgMouseLeave)
-
-        // Cleanup inside this effect's return
         const cleanup = () => {
-          svgNode.removeEventListener('mousemove', onSvgMouseMove)
-          svgNode.removeEventListener('mouseleave', onSvgMouseLeave)
+          svgNode?.removeEventListener('mousemove', onSvgMouseMove)
+          svgNode?.removeEventListener('mouseleave', onSvgMouseLeave)
         }
-        // We'll attach cleanup to the effect's return later, but need to store it.
-        // We'll return cleanup at the end of the outer useEffect.
-        // For now, we assign it to a variable that will be returned.
-        // (We'll do that below)
-        // ====================================================================
+        if (svgNode) {
+          svgNode.addEventListener('mousemove', onSvgMouseMove)
+          svgNode.addEventListener('mouseleave', onSvgMouseLeave)
+        }
 
         setReady(true)
 

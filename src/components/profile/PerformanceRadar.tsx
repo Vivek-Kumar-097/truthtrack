@@ -54,7 +54,7 @@ export function PerformanceRadar({ mp }: Props) {
               fontSize: 12,
               color: '#fff',
             }}
-            formatter={(v: number) => [`${Math.round(v)}`, 'Score']}
+            formatter={(v: number | undefined) => [`${Math.round(v ?? 0)}`, 'Score']}
           />
         </RadarChart>
       </ResponsiveContainer>
